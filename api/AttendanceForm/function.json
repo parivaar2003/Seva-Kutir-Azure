@@ -1,0 +1,30 @@
+{
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [ "post" ]
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res" 
+    },
+    {
+      "type": "queue",
+      "direction": "out",
+      "name": "outputQueueItem",
+      "queueName": "kutir-attendance-submissions",
+      "connection": "ParivaarStorageConnectionString"
+    },
+    {
+      "type": "table",
+      "direction": "out",
+      "name": "outputBackupTable",
+      "tableName": "kutirAttendanceSubmissionsBackup",
+      "connection": "ParivaarStorageConnectionString"
+    }
+  ]
+}
