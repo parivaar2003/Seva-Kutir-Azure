@@ -1,0 +1,17 @@
+{
+  "name": "forms",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "@azure/storage-blob": "^12.17.0",
+    "parse-multipart-data": "^1.1.0",
+    "@azure/storage-queue": "^12.15.0",
+    "@azure/data-tables": "^13.3.0"
+  },
+  "scripts": {
+    "build": "react-scripts build"
+  }
+}
