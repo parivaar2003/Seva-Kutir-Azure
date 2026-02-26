@@ -1,0 +1,14 @@
+[
+  { "state": "Madhya Pradesh", "district": "MP1" },
+  { "state": "Madhya Pradesh", "district": "MP2" },
+  { "state": "Madhya Pradesh", "district": "MP3" },
+
+  { "state": "Jharkhand", "district": "JH1" },
+  { "state": "Jharkhand", "district": "JH2" },
+  { "state": "Jharkhand", "district": "JH3" },
+
+  { "state": "West Bengal", "district": "WB1" },
+  { "state": "West Bengal", "district": "WB2" },
+  { "state": "West Bengal", "district": "WB3" },
+  { "state": "West Bengal", "district": "WB4" }
+]
