@@ -18,6 +18,8 @@ const initialFormData = {
   attendanceCount: "",
   state: "",
   district: "",
+  cluster: "",
+  kutirName: "",
   kutirType: "",
   studentPhoto: null
 };
@@ -33,6 +35,8 @@ function ConfirmationPage({ data, onEdit, onConfirm, loading }) {
     "attendanceCount",
     "state",
     "district",
+    "cluster",
+    "kutirName",
     "kutirType",
     "studentPhoto"
   ];
@@ -45,6 +49,8 @@ function ConfirmationPage({ data, onEdit, onConfirm, loading }) {
     attendanceCount: "Attendance Count",
     state: "State",
     district: "District",
+    cluster: "Cluster",
+    kutirName: "Kutir Name",
     kutirType: "Kutir Type",
     studentPhoto: "Student Photo"
   };
@@ -104,6 +110,8 @@ export default function App() {
     .filter(x => x.state === formData.state)
     .map(x => x.district);
 
+  const clusters = clusterData.filter(x => x.district === formData.district).map(x => x.cluster);
+
   /* HANDLERS */
 
   const handleChange = (e) => {
@@ -136,6 +144,14 @@ export default function App() {
       district: ""
     });
   };
+
+  const handleDistrictChange = (e) => {
+    setFormData({
+      ...formData,
+      district:e.target.value,
+    });
+    
+  }
 
   /* VALIDATION */
 
@@ -268,12 +284,24 @@ export default function App() {
           <select
             value={formData.district}
             disabled={!formData.state}
-            onChange={(e)=>setFormData({...formData,district:e.target.value})}
+            onChange={handleDistrictChange}
             required>
             <option value="">Select</option>
             {districts.map(d => <option key={d}>{d}</option>)}
           </select>
         </div>
+        
+        <div className="form-group">
+          <label>Cluster *</label>
+          <select
+            value={formData.cluster}
+            disabled={!formData.cluster}
+            onChange={(e)=>setFormData({...formData,cluster:e.target.value})}
+            required>
+            <option value="">Select</option>
+            {clusters.map(d => <option key={d}>{d}</option>)}
+          </select>
+          </div>
 
         <div className="form-group full-width">
           <label>Kutir Type *</label>
