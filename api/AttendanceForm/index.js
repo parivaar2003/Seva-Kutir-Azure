@@ -59,6 +59,8 @@ module.exports = async function (context, req) {
       "attendanceCount",
       "state",
       "district",
+      "cluster",
+      "kutirName",
       "kutirType"
     ];
 
