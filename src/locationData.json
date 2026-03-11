@@ -1,14 +1,102 @@
 [
-  { "state": "Madhya Pradesh", "district": "MP1" },
-  { "state": "Madhya Pradesh", "district": "MP2" },
-  { "state": "Madhya Pradesh", "district": "MP3" },
-
-  { "state": "Jharkhand", "district": "JH1" },
-  { "state": "Jharkhand", "district": "JH2" },
-  { "state": "Jharkhand", "district": "JH3" },
-
-  { "state": "West Bengal", "district": "WB1" },
-  { "state": "West Bengal", "district": "WB2" },
-  { "state": "West Bengal", "district": "WB3" },
-  { "state": "West Bengal", "district": "WB4" }
+  {
+    "state": "Chhattisgarh - छत्तीसगढ़",
+    "district": "Gaurela-Pendra-Marwahi - गौरेला-पेंड्रा-मरवाही"
+  },
+  {
+    "state": "Jharkhand - झारखंड",
+    "district": "East singhbhum - पूर्वी सिंहभूम"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Anuppur - अनूपपुर"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Alirajpur - अलीराजपुर"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Barwani - बड़वानी"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Balaghat - बालाघाट"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Betul - बैतूल"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Burhanpur - बुरहानपुर"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Chhindwara - छिंदवाड़ा"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Dewas - देवास"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Dindori - डिंडोरी"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Guna - गुना"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Harda - हरदा"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Jhabua - झाबुआ"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Khandwa - खंडवा"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Khargone - खरगोन"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Mandla - मंडला"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Ratlam - रतलाम"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Sehore -  सीहोर"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Sheopur - श्योपुर"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Shivpuri - शिवपुरी"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Sidhi - सीधी"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Seoni - सिवनी"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Singrauli - सिंगरौली"
+  },
+  {
+    "state": "Madhya Pradesh - मध्य प्रदेश",
+    "district": "Vidisha - विदिशा"
+  }
 ]
