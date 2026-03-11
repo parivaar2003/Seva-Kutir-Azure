@@ -36,14 +36,16 @@ module.exports = async function (context, req) {
     const parts = multipart.parse(bodyBuffer, boundary);
 
     const fields = {};
-    let imageBuffer = null;
-    let imageName = null;
+    const uploadedPhotos = []; 
 
     for (const part of parts) {
-
       if (part.filename) {
-        imageBuffer = part.data;
-        imageName = part.filename;
+        // Collect all uploaded photos into an array
+        uploadedPhotos.push({
+          data: part.data,
+          filename: part.filename,
+          fieldName: part.name 
+        });
       } else {
         fields[part.name] = part.data.toString();
       }
@@ -70,58 +72,59 @@ module.exports = async function (context, req) {
       }
     }
 
-    if (!imageBuffer) {
-      throw new Error("Student photo missing");
+    // Ensure the mandatory first photo exists
+    const hasFirstPhoto = uploadedPhotos.some(p => p.fieldName === "studentPhoto");
+    if (!hasFirstPhoto) {
+      throw new Error("Student photo 1 is missing");
     }
 
     /* ---------------- BLOB UPLOAD ---------------- */
 
-    const connection =
-      process.env.ParivaarStorageConnectionString;
+    const connection = process.env.ParivaarStorageConnectionString;
 
-    const blobServiceClient =
-      BlobServiceClient.fromConnectionString(connection);
+    const blobServiceClient = BlobServiceClient.fromConnectionString(connection);
 
-    const containerClient =
-      blobServiceClient.getContainerClient("kutir-student-photos");
+    const containerClient = blobServiceClient.getContainerClient("kutir-student-photos");
 
     await containerClient.createIfNotExists();
 
     const submissionId = randomUUID();
+    const photoUrls = {};
 
-    const blobName = `${submissionId}-${imageName}`;
+    // Loop through all found photos and upload them
+    for (const photo of uploadedPhotos) {
+      // Append fieldName (studentPhoto, studentPhoto2, etc.) to keep filenames unique
+      const blobName = `${submissionId}-${photo.fieldName}-${photo.filename}`;
+      const blockBlobClient = containerClient.getBlockBlobClient(blobName);
 
-    const blockBlobClient =
-      containerClient.getBlockBlobClient(blobName);
+      await blockBlobClient.uploadData(photo.data);
+      
+      // Store the resulting URL in our mapping object
+      photoUrls[photo.fieldName] = blockBlobClient.url;
+      context.log(`Uploaded ${photo.fieldName}:`, blockBlobClient.url);
+    }
 
-    await blockBlobClient.uploadData(imageBuffer);
+    /* ---------------- PREPARE PAYLOAD ---------------- */
 
-    const imageUrl = blockBlobClient.url;
-
-    context.log("Image uploaded:", imageUrl);
+    const finalPayload = {
+      id: submissionId,
+      ...fields,
+      ...photoUrls // Includes studentPhoto, and optionally studentPhoto2/3
+    };
 
     /* ---------------- QUEUE OUTPUT BINDING ---------------- */
 
-    const queuePayload = {
-      id: submissionId,
-      ...fields,
-      imageUrl
-    };
-
-    context.bindings.outputQueueItem =
-      JSON.stringify(queuePayload);
+    context.bindings.outputQueueItem = JSON.stringify(finalPayload);
 
     /* ---------------- TABLE OUTPUT BINDING ---------------- */
 
     context.bindings.outputBackupTable = {
       partitionKey: fields.state,
       rowKey: submissionId,
-
-      ...fields,
-      imageUrl
+      ...finalPayload
     };
 
-    context.log("Queue + Table bindings prepared");
+    context.log("Queue + Table bindings prepared with multiple photos");
 
     /* ---------------- RESPONSE ---------------- */
 
