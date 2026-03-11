@@ -1,1 +1,286 @@
-
+[
+  {
+    "district": "Alirajpur - अलीराजपुर",
+    "cluster": [
+      "Bhitada - भिटाडा",
+      "Chilkada - चिलकदा",
+      "Gata - गाटा",
+      "Kalibel - कालीबेल",
+      "Karajwani - करजवानी",
+      "Kiti - किटी",
+      "Roshiya uchala faliya - रोशिया उचला फलिया",
+      "Alirajpur (Unassigned) - अलीराजपुर (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Anuppur - अनूपपुर",
+    "cluster": [
+      "Badhar - बढेर",
+      "Belapani - बेलापानी",
+      "Bijapuri - बीजापुरी",
+      "Damgarh - दमगढ़",
+      "Khamraudh - खमरौध",
+      "Kodar - कोडर",
+      "Mahora - महोरा",
+      "Tarang - तरंग",
+      "Anuppur (Unassigned) - अनूपपुर (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Balaghat - बालाघाट",
+    "cluster": [
+      "Bondari - बोंदरी",
+      "Murum - मुरुम",
+      "Semarkhero - सेमरखेरो"
+    ]
+  },
+  {
+    "district": "Barwani - बड़वानी",
+    "cluster": [
+      "Borkund - बोरकुंड",
+      "Gara - गारा",
+      "Harla - हरला",
+      "Kherwani - खेरवानी",
+      "Kuli - कुली",
+      "Ranipura - रानीपुरा",
+      "Shivni - शिवनी",
+      "Barwani (Unassigned) - बड़वानी (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Betul - बैतूल",
+    "cluster": [
+      "Hidali - हिडाली",
+      "Jamu - जामु",
+      "Jeerudhana - जीरुढाना",
+      "Karida - करीदा",
+      "Kasai - कसाई",
+      "Lakhajhiri - लखाझिरी",
+      "Majarvani - मजरवानी",
+      "Nishana - निशाना",
+      "Titvi - तितवी"
+    ]
+  },
+  {
+    "district": "Burhanpur - बुरहानपुर",
+    "cluster": ["Burhanpur - बुरहानपुर",
+      "Burhanpur (Unassigned) - बुरहानपुर (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Chhindwara - छिंदवाड़ा",
+    "cluster": [
+      "Barul - बारुल",
+      "Belpathar - बेलपत्थर",
+      "Champakheda - चम्पाखेड़ा",
+      "Chargaon - चारगांव",
+      "Churikala - चूरीकला",
+      "Dhobiwada - धोबीवाड़ा",
+      "Dob - डोब",
+      "Dungariya - डुंगरिया",
+      "Markadhana - मरकाढाना",
+      "Palani - पलानी",
+      "Patalkot - पातालकोट",
+      "Pathara - पथरा"
+    ]
+  },
+  {
+    "district": "Dewas - देवास",
+    "cluster": [
+      "Eklera - एकलेरा",
+      "Kataphod - कंटाफोड़",
+      "Khategaon - खातेगांव",
+      "Machwas - मचवास",
+      "Punjapura - पुंजापुरा",
+      "Ratatalai - रतातलाई",
+      "Umar - उमर",
+      "Dewas (Unassigned) - देवास (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Dindori - डिंडोरी",
+    "cluster": [
+      "Dhanoli - धनोली",
+      "Dhond - धोंड",
+      "Jalda - जलदा",
+      "Karbematta - करबेमट्टा",
+      "Karopani - कारोपानी",
+      "Pathariya - पथरिया",
+      "Silpidi - सिलपिडी"
+    ]
+  },
+  {
+    "district": "East singhbhum - पूर्वी सिंहभूम",
+    "cluster": [
+      "Digha - दीघा",
+      "Dumkakocha - दुमकाकोचा",
+      "Jhatijharna - झाटीझरना",
+      "Jhunjka - झुंजका"
+    ]
+  },
+  {
+    "district": "Gaurela-Pendra-Marwahi - गौरेला-पेंड्रा-मरवाही",
+    "cluster": [
+      "Badikhar - बाड़ीखार",
+      "Dhanoli - धनोली",
+      "Dhauramuda - धौरामूडा",
+      "Keonchi - केंवची",
+      "Pandripani - पांड्रपानी"
+    ]
+  },
+  {
+    "district": "Guna - गुना",
+    "cluster": [
+      "Semri - सेमरी",
+      "Guna (Unassigned) - गुना (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Harda - हरदा",
+    "cluster": [
+      "Aarya - आर्या",
+      "Bansipura - बंसीपुरा",
+      "Bheempura - भीमपुरा",
+      "Jamniya - जामनिया",
+      "Jhirpi - झिरपी",
+      "Junapani - जुनापानी",
+      "Mahukhal - महुखाल"
+    ]
+  },
+  {
+    "district": "Jhabua - झाबुआ",
+    "cluster": [
+      "Karwad - करवाड़",
+      "Khawasa - खवासा",
+      "Mahi - माही",
+      "Mathmath - मठमठ",
+      "Narsinghpura - नरसिंहपुरा",
+      "Rupapada - रूपापाड़ा",
+      "Jhabua (Unassigned) - झाबुआ (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Khandwa - खंडवा",
+    "cluster": [
+      "Chakara - चक्र",
+      "Chunakhal - चुनाखाल",
+      "Devli khurd - देवली खुर्द",
+      "Junapani - जुनापानी",
+      "Kekadiya - केकड़िया",
+      "Sunderdev - सुंदरदेव",
+      "Khandwa (Unassigned) - खंडवा (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Khargone - खरगोन",
+    "cluster": [
+      "Dharampuri - धर्मपुरी",
+      "Sattali - सत्ताली",
+      "Valpanee - वालपनी",
+      "Khargone (Unassigned) - खरगोन (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Mandla - मंडला",
+    "cluster": [
+      "Chubhawal - चुंभावल",
+      "Machla - माछला",
+      "Mugwani - मुगवानी"
+    ]
+  },
+  {
+    "district": "Ratlam - रतलाम",
+    "cluster": [
+      "Binti - बिंती",
+      "Motiya - मोतिया",
+      "Semliya - सेमलिया",
+      "Ratlam (Unassigned) - रतलाम (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Sehore - सीहोर",
+    "cluster": [
+      "Chakaldi - चाकलदी",
+      "Devpura - देवपुरा",
+      "Machwas - मचवास",
+      "Nadan - नादान",
+      "Navalpura - नवलपुरा",
+      "Nayapura - नयापुरा",
+      "Sehore (Unassigned) - सीहोर (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Seoni - सिवनी",
+    "cluster": [
+      "Machhariya - मछरिया",
+      "Magardha - मगरधा",
+      "Nichli - निचली",
+      "Seoni (Unassigned) - सिवनी (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Sheopur - श्योपुर",
+    "cluster": [
+      "Aamwala - आमवाला",
+      "Aawda - अवदा",
+      "Bankuri - बांकुरी",
+      "Bhela - भेला",
+      "Bhotoopura - भोटूपुरा",
+      "Budhera - बुढेरा",
+      "Dhanayacha - धानयाचा",
+      "Dhava - धवा",
+      "Gadhla - गढला",
+      "Heerapur - हीरापुर",
+      "Kariyadeh - करियादेह",
+      "Kheri - खेरी",
+      "Kuno - कूनो",
+      "Lahroni - लहरौनी",
+      "Moravan - मोरावन",
+      "Ochhapura - ओछापुरा",
+      "Pahadi - पहाड़ी",
+      "Pyaripura - प्यारीपुरा",
+      "Sesaipura - सेसईपुरा",
+      "Silpuri - सीलपुरी",
+      "Sironi - सिरोनी",
+      "Tongra - टोंगरा",
+      "Sheopur (Unassigned) - श्योपुर (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Shivpuri - शिवपुरी",
+    "cluster": [
+      "Laxmipura - लक्ष्मीपुरा",
+      "Mahdewa - महादेवा",
+      "Mahloni - महलौनी",
+      "Parasari - परसरी",
+      "Rampura - रामपुरा",
+      "Umrai - उमरई",
+      "Shivpuri (Unassigned) - शिवपुरी (असंबद्ध)"
+    ]
+  },
+  {
+    "district": "Sidhi - सीधी",
+    "cluster": [
+      "Atraila - अतरैला",
+      "Chagohar - चगौहर",
+      "Majhigawan - मझिगवां",
+      "Nagpokhar - नागपोखर",
+      "Rauhal - रौहल"
+    ]
+  },
+  {
+    "district": "Singrauli - सिंगरौली",
+    "cluster": [
+      "Jhaprahva - झपराहवा",
+      "Piprahwa - पिपराहवा",
+      "Suda - सुडा"
+    ]
+  },
+  {
+    "district": "Vidisha - विदिशा",
+    "cluster": [
+      "Anandpur - आनंदपुर",
+      "Vidisha (Unassigned) - विदिशा (असंबद्ध)"
+    ]
+  }
+]
