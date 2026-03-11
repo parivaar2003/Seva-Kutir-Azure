@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import "./App.css";
 import locationData from "./locationData.json";
+import clusterData from "./clusterData.json";
+import kutirNameData from "./kutirNameData.json";
 
 /* ---------------- DATA ---------------- */
 
@@ -21,7 +23,9 @@ const initialFormData = {
   cluster: "",
   kutirName: "",
   kutirType: "",
-  studentPhoto: null
+  studentPhoto: null,
+  studentPhoto2: null,
+  studentPhoto3: null
 };
 
 /* ---------------- CONFIRMATION PAGE ---------------- */
@@ -38,21 +42,25 @@ function ConfirmationPage({ data, onEdit, onConfirm, loading }) {
     "cluster",
     "kutirName",
     "kutirType",
-    "studentPhoto"
+    "studentPhoto",
+    "studentPhoto2", 
+    "studentPhoto3"
   ];
 
   const labels = {
-    email: "Email",
-    teacherName: "Teacher Name",
-    teacherPhone: "Teacher Phone",
-    shift: "Shift",
-    attendanceCount: "Attendance Count",
-    state: "State",
-    district: "District",
-    cluster: "Cluster",
-    kutirName: "Kutir Name",
-    kutirType: "Kutir Type",
-    studentPhoto: "Student Photo"
+    email: "Email / ईमेल",
+    teacherName: "Teacher Name / शिक्षक का नाम",
+    teacherPhone: "Teacher Phone / शिक्षक का फोन",
+    shift: "Shift / पाली",
+    attendanceCount: "Attendance Count / उपस्थिति संख्या",
+    state: "State / राज्य",
+    district: "District / जिला",
+    cluster: "Cluster / क्लस्टर",
+    kutirName: "Kutir Name / कुटीर का नाम",
+    kutirType: "Kutir Type / कुटीर का प्रकार",
+    studentPhoto: "Student Photo / छात्र का फोटो",
+    studentPhoto2: "Student Photo 2 / छात्र का फोटो 2",
+    studentPhoto3: "Student Photo 3 / छात्र का फोटो 3"
   };
 
   return (
@@ -66,10 +74,10 @@ function ConfirmationPage({ data, onEdit, onConfirm, loading }) {
               <div className="review-label">
                 {labels[key]}
               </div>
-
+                
               <div className="review-value">
-                {key === "studentPhoto"
-                  ? data[key]?.name
+                {key.startsWith("studentPhoto")
+                  ? (data[key] ? data[key].name : "Not Uploaded")
                   : data[key]}
               </div>
             </div>
@@ -110,7 +118,8 @@ export default function App() {
     .filter(x => x.state === formData.state)
     .map(x => x.district);
 
-  const clusters = clusterData.filter(x => x.district === formData.district).map(x => x.cluster);
+  const clusters = clusterData.find(x => x.district === formData.district)?.cluster;
+  const kutirNames = kutirNameData.find(x => x.cluster === formData.cluster)?.kutirName;
 
   /* HANDLERS */
 
@@ -129,8 +138,8 @@ export default function App() {
       return;
     }
 
-    if (name === "studentPhoto") {
-      setFormData({ ...formData, studentPhoto: files[0] });
+    if (name.startsWith("studentPhoto")) {
+      setFormData({ ...formData, [name]: files[0] || null });
       return;
     }
 
@@ -165,7 +174,10 @@ export default function App() {
       newErrors.teacherPhone = "Phone must be 10 digits";
 
     Object.entries(formData).forEach(([k, v]) => {
-      if (!v) newErrors[k] = "Required";
+      // We skip checking Photo 2 and Photo 3 so they remain optional
+      if (!v && k !== "studentPhoto2" && k !== "studentPhoto3") {
+        newErrors[k] = "Required";
+      }
     });
 
     setErrors(newErrors);
@@ -230,21 +242,21 @@ export default function App() {
         <h2>Attendance Form</h2>
 
         <div className="form-group">
-          <label>Email *</label>
+          <label>Email / ईमेल *</label>
           <input type="email" name="email"
             value={formData.email}
             onChange={handleChange} required />
         </div>
 
         <div className="form-group">
-          <label>Teacher Name *</label>
+          <label>Teacher Name / शिक्षक का नाम *</label>
           <input name="teacherName"
             value={formData.teacherName}
             onChange={handleChange} required />
         </div>
 
         <div className="form-group">
-          <label>Teacher Phone *</label>
+          <label>Teacher Mobile / शिक्षक का फोन *</label>
           <input inputMode="numeric" maxLength={10}
             name="teacherPhone"
             value={formData.teacherPhone}
@@ -252,7 +264,7 @@ export default function App() {
         </div>
 
         <div className="form-group">
-          <label>Shift *</label>
+          <label>Shift / पाली *</label>
           <select name="shift"
             value={formData.shift}
             onChange={handleChange} required>
@@ -263,7 +275,7 @@ export default function App() {
         </div>
 
         <div className="form-group">
-          <label>Attendance Count *</label>
+          <label>Attendance Count / उपस्थिति संख्या *</label>
           <input inputMode="numeric"
             name="attendanceCount"
             value={formData.attendanceCount}
@@ -271,7 +283,7 @@ export default function App() {
         </div>
 
         <div className="form-group">
-          <label>State *</label>
+          <label>State / राज्य *</label>
           <select value={formData.state}
             onChange={handleStateChange} required>
             <option value="">Select</option>
@@ -280,7 +292,7 @@ export default function App() {
         </div>
 
         <div className="form-group">
-          <label>District *</label>
+          <label>District / जिला *</label>
           <select
             value={formData.district}
             disabled={!formData.state}
@@ -292,41 +304,56 @@ export default function App() {
         </div>
         
         <div className="form-group">
-          <label>Cluster *</label>
+          <label>Cluster / क्लस्टर *</label>
           <select
             value={formData.cluster}
-            disabled={!formData.cluster}
+            disabled={!formData.district}
             onChange={(e)=>setFormData({...formData,cluster:e.target.value})}
             required>
             <option value="">Select</option>
-            {clusters.map(d => <option key={d}>{d}</option>)}
+            {clusters?.map(d => <option key={d}>{d}</option>)}
           </select>
           </div>
 
-        <div className="form-group full-width">
-          <label>Kutir Type *</label>
-          <div className="radio-group">
-            {kutirTypes.map(type => (
-              <label key={type}>
-                <input type="radio"
-                  name="kutirType"
-                  value={type}
-                  checked={formData.kutirType===type}
-                  onChange={handleChange}
-                  required />
-                {type}
-              </label>
-            ))}
+          <div className="form-group">
+          <label>Kutir Name / कुटीर का नाम *</label>
+          <select
+            value={formData.kutirName}
+            disabled={!formData.cluster}
+            onChange={(e)=>setFormData({...formData,kutirName:e.target.value})}
+            required>
+            <option value="">Select</option>
+            {kutirNames?.map(d => <option key={d}>{d}</option>)}
+          </select>
           </div>
+
+        <div className="form-group">
+          <label>Kutir Type / कुटीर का प्रकार *</label>
+          <select
+            value={formData.kutirType}
+            onChange={(e)=>setFormData({...formData,kutirType:e.target.value})}
+            required>
+            <option value="">Select</option>
+            {kutirTypes?.map(d => <option key={d}>{d}</option>)}
+          </select>
         </div>
 
         <div className="form-group full-width">
-          <label>Student Photo *</label>
-          <input type="file"
-            name="studentPhoto"
-            accept="image/*"
-            onChange={handleChange} 
-            required />
+          <label>Student Photo 1 / छात्र का फोटो 1 *</label>
+          <input type="file" name="studentPhoto" accept="image/*"
+            onChange={handleChange} required />
+        </div>
+
+        <div className="form-group full-width">
+          <label>Student Photo 2 / छात्र का फोटो 2</label>
+          <input type="file" name="studentPhoto2" accept="image/*"
+            onChange={handleChange} />
+        </div>
+
+        <div className="form-group full-width">
+          <label>Student Photo 3 / छात्र का फोटो 3</label>
+          <input type="file" name="studentPhoto3" accept="image/*"
+            onChange={handleChange} />
         </div>
 
         <button className="submit-btn full-width">
