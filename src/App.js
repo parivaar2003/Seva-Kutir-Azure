@@ -257,7 +257,7 @@ export default function App() {
 
         <div className="form-group">
           <label>Teacher Mobile / शिक्षक का फोन *</label>
-          <input inputMode="numeric" maxLength={10}
+          <input inputMode="numeric" minlength="10" maxlength="10"
             name="teacherPhone"
             value={formData.teacherPhone}
             onChange={handleChange} required />
