@@ -2,25 +2,25 @@
   {
     "cluster": "Aamwala - आमवाला",
     "kutirName": [
-      "Aamwala saharana-karahal - आमवाला सहराना-कराहल",
-      "Acharwala saharana-karahal - अचारवाला सहराना-कराहल",
-      "Indra colony-karahal - इंद्र कॉलोनी-कराहल",
-      "Kitarra saharana-karahal - कितारा सहराना-कराहल",
-      "Mirchwala saharana-karahal - मिर्चवाला सहराना-कराहल",
-      "Sanjay colony-karahal - संजय कॉलोनी-कराहल",
-      "Shiv colony-karahal - शिव कॉलोनी-कराहल",
-      "Ugona saharana-karahal - उगोना सहराना-कराहल"
+      "Aamwala Saharana-karahal - आमवाला सहराना-करहल",
+      "Acharwala Saharana-karahal - अचरवला सहराना-करहल",
+      "Indra Colony-karahal - इंद्र कॉलोनी-करहल",
+      "Kitarra Saharana-karahal - कितरा सहराना-करहल",
+      "Mirchwala Saharana-karahal - मिरचवला सहराना-करहल",
+      "Sanjay Colony-karahal - संजय कॉलोनी-करहल",
+      "Shiv Colony-karahal - शिव कॉलोनी-करहल",
+      "Ugona Saharana-karahal - उगोना सहराना-करहल"
     ]
   },
   {
     "cluster": "Aarya - आर्या",
     "kutirName": [
       "Aarya - आर्या",
-      "Bhavarpani - भवरपानी",
+      "Bhavarpani - भवरपनी",
       "Bhomkadhana - भोमकाढाना",
       "Bhurali - भुराली",
       "Imlidhana - इमलीढाना",
-      "Lalyachapad - लाल्याचापड़",
+      "Lalyachapad - लल्याचपद",
       "Mortalai - मोरतलाई",
       "Neemdhana - नीमढाना"
     ]
@@ -28,14 +28,14 @@
   {
     "cluster": "Aawda - अवदा",
     "kutirName": [
-      "Awada",
+      "Awada - अवदा",
       "Bandhali - बंधाली",
-      "Bardha khurd - बरधा खुर्द",
+      "Bardha Khurd - बरधा खुर्द",
       "Bhojka - भोजका",
       "Bukhari - बुखारी",
-      "Chak majitpur - चक मजीतपुर",
-      "Malipura - मालीपुरा",
-      "Masawani - मसावानी"
+      "Chak Majitpur - चक मजितपुर",
+      "Malipura - मलिपुरा",
+      "Masawani - मसवानि"
     ]
   },
   {
@@ -44,9 +44,9 @@
       "Banarsena - बनारसेना",
       "Dhamaukhedi - धमऊखेड़ी",
       "Dhamaukhedi-2 - धमऊखेड़ी-2",
-      "Gadha ghat - गधा घाट",
+      "Gadha Ghat - गध घाट",
       "Lalatora - लालटोरा",
-      "Pathera chandu - पथेरा चंदू",
+      "Pathera Chandu - पथेरा चंदू",
       "Rampur - रामपुर",
       "Ratidhay - रतिधाय"
     ]
@@ -69,31 +69,31 @@
       "Amarpur - अमरपुर",
       "Badhar - बढेर",
       "Bhaluchua - भलुचुआ",
-      "Bhati bahara - भाटी बहरा",
-      "Dumar tola - डुमर टोला",
-      "Padri khar - पादरी खार",
-      "Parsel kala - परसेल कला"
+      "Bhati Bahara - भति बहरा",
+      "Dumar Tola - डुमर टोला",
+      "Padri Khar - पादरी खार",
+      "Parsel Kala - परसेल कला"
     ]
   },
   {
     "cluster": "Badikhar - बाड़ीखार",
     "kutirName": [
       "Badikhar - बाड़ीखार",
-      "Bandhapara - बांधापारा",
-      "Bandhatola - बांधाटोला",
-      "Kalmi tikra - कल्मी टिकरा",
-      "Kartik para - कार्तिक पारा"
+      "Bandhapara - बंधपर",
+      "Bandhatola - बंधटोला",
+      "Kalmi Tikra - कलमि टिकर",
+      "Kartik Para - करतिक पारा"
     ]
   },
   {
     "cluster": "Bankuri - बांकुरी",
     "kutirName": [
       "Bankuri - बांकुरी",
-      "Chak parond - चक परोंद",
-      "Kanar kheda - कनार खेड़ा",
-      "Maharbani - महरबानी",
+      "Chak Parond - चक परोन्द",
+      "Kanar Kheda - कनर खेड़ा",
+      "Maharbani - महरबनि",
       "Morai - मोराई",
-      "Nimaniya - निमानिया",
+      "Nimaniya - निमनिया",
       "Semra - सेमरा"
     ]
   },
@@ -101,9 +101,9 @@
     "cluster": "Bansipura - बंसीपुरा",
     "kutirName": [
       "Bansipura - बंसीपुरा",
-      "Bapcha - बापचा",
-      "Bobada - बोबाड़ा",
-      "Churni - चूरनी",
+      "Bapcha - बपचा",
+      "Bobada - बोबदा",
+      "Churni - चुरनि",
       "Indrapura - इंद्रपुरा",
       "Lakhadeh - लाखदेह",
       "Ruthubarra - रुथुबर्रा",
@@ -115,53 +115,53 @@
     "kutirName": [
       "Barul - बारुल",
       "Dabri - डाबरी",
-      "Muarsani - मुआरसनी",
-      "Papda - पापड़ा",
-      "Sathiya - साथिया",
+      "Muarsani - मुअरसनि",
+      "Papda - पपदा",
+      "Sathiya - सथिया",
       "Teliya - तेलिया"
     ]
   },
   {
     "cluster": "Belapani - बेलापानी",
     "kutirName": [
-      "Bakan - बाकन",
+      "Bakan - बकन",
       "Belapani - बेलापानी",
-      "Chauradadar - चौरादादर",
+      "Chauradadar - चौरददर",
       "Chilhiyamar - चिल्हियामार",
-      "Deori dadar - देओरी दादर",
+      "Deori Dadar - देओरी ददर",
       "Jarwahi - जरवाही",
-      "Mundan tola - मुंडन टोला",
-      "Naguli dadar - नगुली दादर",
+      "Mundan Tola - मुन्दन टोला",
+      "Naguli Dadar - नगुली ददर",
       "Padri - पादरी",
       "Pipraha - पिपराहा",
-      "Upharikala - उपरीकला"
+      "Upharikala - उफरिकला"
     ]
   },
   {
     "cluster": "Belpathar - बेलपत्थर",
     "kutirName": [
-      "Ankhawadi - आंखवाड़ी",
+      "Ankhawadi - अन्खवदि",
       "Belkhedi - बेलखेड़ी",
       "Belpathar - बेलपत्थर",
       "Bhainskhoh - भैंसखोह",
       "Bhoipar - भोईपार",
-      "Bijatola - बीजाटोला",
-      "Dendu - डेंडू",
-      "Kamthi - कामठी",
-      "Sarekadhana - सरेकाढाना"
+      "Bijatola - बिजटोला",
+      "Dendu - देन्दु",
+      "Kamthi - कमठि",
+      "Sarekadhana - सरेकढाना"
     ]
   },
   {
     "cluster": "Bheempura - भीमपुरा",
     "kutirName": [
       "Bheempura - भीमपुरा",
-      "Chikalpat - चिकालपाट",
-      "Dabiya - डाबिया",
-      "Gaina dhana - गैना ढाना",
-      "Kumbhikheda - कुंभीखेड़ा",
-      "Lafang dhana - लफंग ढाना",
-      "Nayadhana - नयाढाना",
-      "Sundarpani - सुंदरपानी"
+      "Chikalpat - चिकलपत",
+      "Dabiya - दबिया",
+      "Gaina Dhana - गैन ढाना",
+      "Kumbhikheda - कुम्भिखेड़ा",
+      "Lafang Dhana - लफंग ढाना",
+      "Nayadhana - नयढाना",
+      "Sundarpani - सुन्दरपनी"
     ]
   },
   {
@@ -169,51 +169,51 @@
     "kutirName": [
       "Bhela - भेला",
       "Bhimlat - भीमलात",
-      "Gandhigaon - गांधीगांव",
+      "Gandhigaon - गन्धिगांव",
       "Kakardha - ककरधा",
-      "Kalitalai - कालीतलई",
+      "Kalitalai - कलितलाई",
       "Nimodamath - निमोदामठ",
       "Sarsilla - सरसिल्ला",
-      "Savdi - सावदी"
+      "Savdi - सवदि"
     ]
   },
   {
     "cluster": "Bhitada - भिटाडा",
     "kutirName": [
-      "Badi fartala - बड़ी फरतला",
+      "Badi Fartala - बड़ी फरतला",
       "Bhitada - भिटाडा",
-      "Chhoti fartala - छोटी फरतला",
-      "Chhoti gendra - छोटी गेंदरा",
-      "Khundi - खुंडी",
-      "Mankheda - मानखेड़ा"
+      "Chhoti Fartala - छोटी फरतला",
+      "Chhoti Gendra - छोटी गेन्द्र",
+      "Khundi - खुन्दि",
+      "Mankheda - मनखेड़ा"
     ]
   },
   {
     "cluster": "Bhotoopura - भोटूपुरा",
     "kutirName": [
-      "Bandarhar - बंदरहार",
+      "Bandarhar - बन्दरहर",
       "Bhairupura - भैरूपुरा",
       "Bhotoopura - भोटूपुरा",
-      "Chak bilendi - चक बिलेंडी",
+      "Chak Bilendi - चक बिलेन्दि",
       "Ramnagar - रामनगर",
-      "Ranipura mafi - रानीपुरा माफी",
-      "Sonipura - सोनीपुरा"
+      "Ranipura Mafi - रानीपुरा माफी",
+      "Sonipura - सोनिपुरा"
     ]
   },
   {
     "cluster": "Bijapuri - बीजापुरी",
     "kutirName": [
-      "Bhura tola - भूरा टोला",
+      "Bhura Tola - भूरा टोला",
       "Bijapuri - बीजापुरी",
       "Darrapani - दर्रापानी",
-      "Karaundi - करौंदी",
-      "Lahran tola - लहरन टोला",
-      "Piparkhuta - पीपरखुटा",
+      "Karaundi - करौन्दि",
+      "Lahran Tola - लहरन टोला",
+      "Piparkhuta - पिपरखुत",
       "Salaiya - सलैया",
-      "Salargondi - सलारगोंडी",
-      "Sanpuri - सनपुरी",
-      "Sarai patera - सराय पटेरा",
-      "Uphari khurd - उपरी खुर्द"
+      "Salargondi - सलरगोन्दि",
+      "Sanpuri - सन्पुरि",
+      "Sarai Patera - सराई पतेर",
+      "Uphari Khurd - उफरि खुर्द"
     ]
   },
   {
@@ -221,9 +221,9 @@
     "kutirName": [
       "Binti - बिंती",
       "Chikni - चिकनी",
-      "Devipada - देवीपाड़ा",
-      "Haliwada charpota - हलीवाड़ा चरपोटा",
-      "Jholi tambe binti - झोली तांबे बिंती",
+      "Devipada - देविपदा",
+      "Haliwada Charpota - हलिवद चरपोत",
+      "Jholi Tambe Binti - झोली तम्बे बिंती",
       "Jodhpura - जोधपुरा"
     ]
   },
@@ -232,12 +232,12 @@
     "kutirName": [
       "Adori - अदोरी",
       "Bondari - बोंदरी",
-      "Dharmashala - धर्मशाला",
+      "Dharmashala - धरमशला",
       "Gadhiya - गढिया",
       "Komo - कोमो",
-      "Korka - कोरका",
-      "Kundeksa - कुंडेक्सा",
-      "Ranjana - रंजना",
+      "Korka - कोरक",
+      "Kundeksa - कुन्देक्स",
+      "Ranjana - रन्जन",
       "Usri - उसरी"
     ]
   },
@@ -245,12 +245,12 @@
     "cluster": "Borkund - बोरकुंड",
     "kutirName": [
       "Borkund - बोरकुंड",
-      "Borkund (patel faliya) - बोरकुंड (पटेल फलिया)",
-      "Dhagbara faliya - धगबारा फलिया",
-      "Lekhda - लेखड़ा",
-      "Sagbara - सगबारा",
-      "Sagbara patel faliya - सगबारा पटेल फलिया",
-      "Sindhwani - सिंधवानी"
+      "Borkund (patel Faliya) - बोरकुंड (पतेल फलिया)",
+      "Dhagbara Faliya - धगबर फलिया",
+      "Lekhda - लेखद",
+      "Sagbara - सगबर",
+      "Sagbara Patel Faliya - सगबर पटेल फलिया",
+      "Sindhwani - सिन्धवनि"
     ]
   },
   {
@@ -260,21 +260,21 @@
       "Dob - डोब",
       "Jharela - झरेला",
       "Jharer - झरेर",
-      "Kotagadh - कोटागढ़",
-      "Patalgadh - पातालगढ़",
+      "Kotagadh - कोतागढ",
+      "Patalgadh - पतालगढ",
       "Simroniya - सिमरोनिया"
     ]
   },
   {
     "cluster": "Chagohar - चागोहर",
     "kutirName": [
-      "Amgaon - आमगांव",
-      "Badijhiriya - बड़ीझिरिया",
-      "Bidaura - बिदौरा",
+      "Amgaon - अमगांव",
+      "Badijhiriya - बदिझिरिया",
+      "Bidaura - बिदौर",
       "Chagohar - चागोहर",
-      "Duhkuriya - दुहकुरिया",
+      "Duhkuriya - दुह्कुरिया",
       "Harrai - हर्रई",
-      "Karaunti - करौंती",
+      "Karaunti - करौन्ति",
       "Nawanagar - नावानगर",
       "Sajadol - सजाडोल",
       "Saristal - सरिसताल"
@@ -283,24 +283,24 @@
   {
     "cluster": "Chakaldi - चाकलदी",
     "kutirName": [
-      "Baniyagaon - बनियागांव",
-      "Beelpati - बीलपती",
-      "Chatarkota - चतरकोटा",
-      "Dhaba - ढाबा",
-      "Khapa - खापा",
-      "Pat talai - पत तलई",
-      "Rani bedri - रानी बेदरी"
+      "Baniyagaon - बनियगांव",
+      "Beelpati - बीलपति",
+      "Chatarkota - चतरकोत",
+      "Dhaba - ढब",
+      "Khapa - खप",
+      "Pat Talai - पत तलाई",
+      "Rani Bedri - रनि बेदरी"
     ]
   },
   {
     "cluster": "Chakara - चक्र",
     "kutirName": [
-      "Bakarjun - बाकरजुन",
-      "Buti - बुटी",
+      "Bakarjun - बकरजुन",
+      "Buti - बुति",
       "Chakara - चक्र",
-      "Dawaniya - दवानिया",
-      "Dhama - धामा",
-      "Dhimariya - धीमरिया",
+      "Dawaniya - दवनिया",
+      "Dhama - धम",
+      "Dhimariya - धिमरिया",
       "Dholgaon - ढोलगांव",
       "Pargulai - परगुलई",
       "Suhagi - सुहागी"
@@ -309,41 +309,41 @@
   {
     "cluster": "Champakheda - चम्पाखेड़ा",
     "kutirName": [
-      "Aamdhana - आमढाना",
-      "Borpani - बोरपानी",
+      "Aamdhana - अमढाना",
+      "Borpani - बोरपनि",
       "Champakheda - चम्पाखेड़ा",
-      "Gangai - गंगई",
-      "Kamtha - कामथा",
+      "Gangai - गन्गई",
+      "Kamtha - कमठ",
       "Mukakheda - मुकाखेड़ा",
-      "Pussudhana - पुस्सूढाना",
-      "Saldhana - सालढाना",
-      "Sanvlakheda - सांवलाखेड़ा"
+      "Pussudhana - पुस्सुढाना",
+      "Saldhana - सलढाना",
+      "Sanvlakheda - सन्व्लखेड़ा"
     ]
   },
   {
     "cluster": "Chargaon - चारगांव",
     "kutirName": [
-      "Baghi - बाघी",
-      "Balusar - बालुसार",
-      "Bhond - भोंड",
+      "Baghi - बधि",
+      "Balusar - बलुसर",
+      "Bhond - भोन्द",
       "Chargaon - चारगांव",
-      "Digdhar - दिग्धर",
-      "Khirkighat - खिड़कीघाट",
-      "Madhi - मढ़ी",
+      "Digdhar - दिगधर",
+      "Khirkighat - खिरकिघाट",
+      "Madhi - मढि",
       "Nikai - निकई",
-      "Pando - पांडो",
-      "Rater - रातेर"
+      "Pando - पन्दो",
+      "Rater - रतेर"
     ]
   },
   {
     "cluster": "Chilkada - चिलकदा",
     "kutirName": [
-      "Aakdiya - आकड़िया",
+      "Aakdiya - आकदिया",
       "Chilkada - चिलकदा",
-      "Jalsindhi - जलसिंधी",
-      "Khodamba - खोदंबा",
-      "Umarala faliya - उमरला फलिया",
-      "Vakner bari faliya - वकनेर बारी फलिया"
+      "Jalsindhi - जलसिन्धि",
+      "Khodamba - खोदम्ब",
+      "Umarala Faliya - उमरला फलिया",
+      "Vakner Bari Faliya - वकनेर बरि फलिया"
     ]
   },
   {
@@ -352,26 +352,26 @@
       "Badjhar - बड़झर",
       "Chubhawal - चुभावल",
       "Daldala - दलदला",
-      "Dhaman pani - धामन पानी",
+      "Dhaman Pani - धमन पानी",
       "Khamriya - खमरिया",
-      "Khisi - खिसी",
-      "Odhari - ओधारी",
-      "Simaiya - सिमैैया",
-      "Umardih - उमरडीह",
+      "Khisi - खिसि",
+      "Odhari - ओधरि",
+      "Simaiya - सिमैय",
+      "Umardih - उमर्दिह",
       "Umariya - उमरिया"
     ]
   },
   {
     "cluster": "Chunakhal - चूनाखाल",
     "kutirName": [
-      "Ambapath - अम्बापाथ",
-      "Garbedi - गरबेदी",
-      "Gulardhana - गुलारढाना",
+      "Ambapath - अम्बपथ",
+      "Garbedi - गरबेदि",
+      "Gulardhana - गुलर्ढाना",
       "Karwani - करवानी",
       "Khari - खारी",
       "Kotwariya - कोटवारिया",
-      "Kotwariya vangram - कोटवारिया वनग्राम",
-      "Kumhar kheda - कुम्हार खेड़ा"
+      "Kotwariya Vangram - कोटवारिया वनग्राम",
+      "Kumhar Kheda - कुम्हार खेड़ा"
     ]
   },
   {
@@ -379,65 +379,65 @@
     "kutirName": [
       "Churikala - चूरीकला",
       "Dhokheda - धोखेड़ा",
-      "Jheel pipariya - झील पिपरिया",
-      "Kundali - कुंडली",
-      "Malpani - मालपानी",
+      "Jheel Pipariya - झील पिपरिया",
+      "Kundali - कुन्दलि",
+      "Malpani - मलपनि",
       "Mohariya - मोहरिया",
-      "Salebarru - सालेबर्रू",
-      "Sambhardoh - सम्भरदोह",
-      "Tatighat - तातीघाट"
+      "Salebarru - सलेबर्रु",
+      "Sambhardoh - सम्भर्दोह",
+      "Tatighat - ततिघाट"
     ]
   },
   {
     "cluster": "Damgarh - दमगढ़",
     "kutirName": [
       "Damgarh - दमगढ़",
-      "Dhadhdu tola - धधु टोला",
-      "Gadhidadar - गढ़ीदादर",
-      "Guguwa kapa - गुगुवा कापा",
-      "Jaleshwar tola - जलेश्वर टोला",
-      "Miriya - मिरिया",
-      "Pharrisemar - फर्रिसेमार",
-      "Sarhakona - सरहकोना",
-      "Umargohan - उमरगोहान"
+      "Dhadhdu Tola - धधु टोला",
+      "Gadhidadar - गढिददर",
+      "Guguwa Kapa - गुगुव कप",
+      "Jaleshwar Tola - जलेशवर टोला",
+      "Miriya - मिरिय",
+      "Pharrisemar - फर्रिसेमर",
+      "Sarhakona - सरहकोन",
+      "Umargohan - उमर्गोहन"
     ]
   },
   {
-    "cluster": "Devli khurd - देवली खुर्द",
+    "cluster": "Devli Khurd - देवली खुर्द",
     "kutirName": [
       "Aadakheda - आड़ाखेड़ा",
-      "Chiktalai - चिकतलई",
-      "Devli khurd - देवली खुर्द",
-      "Dudhkundiya - दूधकुंडिया",
-      "Gadhadiya - गढ़डिया",
-      "Manpura - मानपुरा",
+      "Chiktalai - चिक्तलाई",
+      "Devli Khurd - देवली खुर्द",
+      "Dudhkundiya - दुध्कुन्दिय",
+      "Gadhadiya - गढदिय",
+      "Manpura - मनपुर",
       "Mirikheda - मिरीखेड़ा",
-      "Richadi kheda - रिचाड़ी खेड़ा",
-      "Sawalidhad - सावलिधड़",
+      "Richadi Kheda - रिचदि खेड़ा",
+      "Sawalidhad - सवलिधद",
       "Talyadhad - तल्याधड"
     ]
   },
   {
     "cluster": "Devpura - देवपुरा",
     "kutirName": [
-      "Alipur - अलीपुर",
-      "Bijabhairu - बीजाभैरू",
+      "Alipur - अलिपुर",
+      "Bijabhairu - बिजाभैरु",
       "Devpura - देवपुरा",
-      "Dundalava - डुंडलवा",
-      "Jamli - जामली",
+      "Dundalava - दुन्दलव",
+      "Jamli - जम्लि",
       "Kolukhedi - कोलूखेड़ी",
-      "Moyapani - मोयापानी",
-      "Panigaon - पानीगांव"
+      "Moyapani - मोयपनि",
+      "Panigaon - पनिगांव"
     ]
   },
   {
     "cluster": "Dhanayacha - धनायचा",
     "kutirName": [
-      "Aamli ka sahrana - आमली का सहराना",
+      "Aamli Ka Sahrana - आमलि क सहराना",
       "Akoriya - अकोरिया",
       "Bankhara - बनखरा",
       "Dhanayacha - धनायचा",
-      "Gola ka sahrana - गोला का सहराना",
+      "Gola Ka Sahrana - गोला का सहराना",
       "Kaimkahar - कैमकहर",
       "Sarsilli - सरसिल्ली"
     ]
@@ -445,49 +445,49 @@
   {
     "cluster": "Dhanoli - धनोली",
     "kutirName": [
-      "Aavastola - आवस्तोला",
-      "Angai - अंगई",
-      "Babatola - बाबाटोला",
-      "Baldhar - बालधर",
-      "Bartola - बारटोला",
+      "Aavastola - अवस्तोल",
+      "Angai - अन्गई",
+      "Babatola - बबटोला",
+      "Baldhar - बल्धर",
+      "Bartola - बरटोला",
       "Bharratola - भर्रटोला",
-      "Buchva - बुचवा",
-      "Chouratola - चौराटोला",
-      "Dongritola 2 - डोंगरीटोला 2",
-      "Karangara - करंगरा",
-      "Khamhli kala - खम्हली कला",
-      "Matikachhar - माटीकछार",
-      "Mediya kachhar - मेड़िया कछार",
-      "Midhli - मिधली",
+      "Buchva - बुच्व",
+      "Chouratola - चौरटोला",
+      "Dongritola 2 - दोन्ग्रिटोला 2",
+      "Karangara - करनगर",
+      "Khamhli Kala - खम्ह्लि कला",
+      "Matikachhar - मतिकछर",
+      "Mediya Kachhar - मेदिय कछर",
+      "Midhli - मिध्लि",
       "Navatola - नवटोला",
-      "Tala mal - ताला माल",
-      "Turritola - तुर्रीटोला"
+      "Tala Mal - तल माल",
+      "Turritola - तुर्रिटोला"
     ]
   },
   {
     "cluster": "Dharampuri - धर्मपुरी",
     "kutirName": [
-      "Bokranya - बोक्रान्या",
+      "Bokranya - बोक्रन्य",
       "Dharampuri - धर्मपुरी",
-      "Dharampuri pujara faliya - धर्मपुरी पुजारी फलिया",
-      "Dongaliyapani faliya - डोंगलियापानी फलिया",
-      "Gokhurmal - गोखुरमाल",
-      "Khartya faliya - खर्त्या फलिया",
-      "Rupgarh guru faliya - रूपगढ़ गुरु फलिया",
-      "Varti faliya raisagar - वर्ती फलिया रायसागर"
+      "Dharampuri Pujara Faliya - धर्मपुरी पुजर फलिया",
+      "Dongaliyapani Faliya - दोन्गलियपनि फलिया",
+      "Gokhurmal - गोखुरमल",
+      "Khartya Faliya - खर्त्य फलिया",
+      "Rupgarh Guru Faliya - रुपगढ गुरु फलिया",
+      "Varti Faliya Raisagar - वर्ति फलिया रैसगर"
     ]
   },
   {
     "cluster": "Dhauramuda - धौरामूडा",
     "kutirName": [
-      "Bahari jhorki - बाहरी झोर्की",
+      "Bahari Jhorki - बहरि झोर्कि",
       "Bajardand - बजरदांड",
       "Boirdand - बोइरदांड",
-      "Chikaniyatola - चिकनियाटोला",
+      "Chikaniyatola - चिकनियतोल",
       "Dhauramuda - धौरामूडा",
-      "Dokargadhi - डोकड़गढ़ी",
-      "Dongritola - डोंगरीटोला",
-      "Gorratikra - गोर्राटिकरा"
+      "Dokargadhi - दोकर्गढि",
+      "Dongritola - दोन्ग्रिटोला",
+      "Gorratikra - गोर्रतिक्र"
     ]
   },
   {
@@ -495,99 +495,99 @@
     "kutirName": [
       "Dhava - धवा",
       "Goras - गोरस",
-      "Kalmi - कल्मी",
-      "Kerka - केरका",
-      "Pahela - पहेला",
-      "Panar - पनार",
+      "Kalmi - कल्मि",
+      "Kerka - केरक",
+      "Pahela - पहेल",
+      "Panar - पनर",
       "Reechhee - रीछी"
     ]
   },
   {
     "cluster": "Dhobiwada - धोबीवाड़ा",
     "kutirName": [
-      "Amadhana - आमढाना",
-      "Bijadhana - बीजाढाना",
-      "Dhagadiya - धगड़िया",
+      "Amadhana - अमढाना",
+      "Bijadhana - बिजढाना",
+      "Dhagadiya - धगदिया",
       "Dhobiwada - धोबीवाड़ा",
-      "Gonawadi - गोनावाड़ी",
-      "Muttor - मुत्तर",
-      "Rajdhana - राजढाना",
-      "Satalwah - सतालवाह"
+      "Gonawadi - गोनवादि",
+      "Muttor - मुत्तोर",
+      "Rajdhana - रजढाना",
+      "Satalwah - सतल्वाह"
     ]
   },
   {
     "cluster": "Dhond - धोंड",
     "kutirName": [
       "Baigantola - बैगनटोला",
-      "Bijoura - बिजौरा",
+      "Bijoura - बिजौर",
       "Dhond - धोंड",
-      "Dumartola raiyat - डुमरटोला रैयत",
-      "Girwarpur mal - गिरवरपुर माल",
-      "Khapripani - खापरीपानी",
-      "Labeda - लबेदा",
-      "Pindrukhi mal - पिंड़रुखी माल"
+      "Dumartola Raiyat - दुमर्तोला रैयत",
+      "Girwarpur Mal - गिर्वरपुर माल",
+      "Khapripani - खप्रिपनि",
+      "Labeda - लबेद",
+      "Pindrukhi Mal - पिन्द्रुखि माल"
     ]
   },
   {
     "cluster": "Digha - दीघा",
     "kutirName": [
-      "Basadera - बसदेरा",
-      "Bhaduya - भादुया",
-      "Dainmari - दैनमारी",
-      "Daldali - दलदली",
+      "Basadera - बसडेर",
+      "Bhaduya - भडुय",
+      "Dainmari - डैनमरि",
+      "Daldali - डलडलि",
       "Digha - दीघा",
-      "Gobindpur - गोबिंदपुर",
-      "Machabera - माचाबेरा",
-      "Ramchandrapur - रामचंद्रपुर"
+      "Gobindpur - गोबिनडपुर",
+      "Machabera - मचबेर",
+      "Ramchandrapur - रमचनडरपुर"
     ]
   },
   {
     "cluster": "Dob - डोब",
     "kutirName": [
-      "Dhulaniya - धुलानिया",
+      "Dhulaniya - ढुलनिय",
       "Dob - डोब",
-      "Hirri - हिर्री",
-      "Kohka - कोहका",
-      "Linga - लिंगा",
-      "Lona pathar - लोना पत्थर",
-      "Rajthari - राजथरी",
-      "Sailakheda - सैलाखेड़ा",
-      "Sajkuhi - सजकुही"
+      "Hirri - हिररि",
+      "Kohka - कोहक",
+      "Linga - लिनग",
+      "Lona pathar - लोन पत्थर",
+      "Rajthari - रजठरि",
+      "Sailakheda - सैलखेड",
+      "Sajkuhi - सजकुहि"
     ]
   },
   {
     "cluster": "Dumkakocha - दुमकाकोचा",
     "kutirName": [
       "Dumkakocha - दुमकाकोचा",
-      "Gurajhor - गुराजहोर",
-      "Haludbani - 2 - हलुदबनी - 2",
-      "Haludboni - हलुदबनी",
-      "Mirgitand - मिरगीटांड़",
-      "Pindrabad - पिंडराबाद",
-      "Rajabasa - राजाबसा",
-      "Sukrigaria - सुकरीगड़िया"
+      "Gurajhor - गुरझोर",
+      "Haludbani - 2 - हलुडबनि - 2",
+      "Haludboni - हलुडबोनि",
+      "Mirgitand - मिरगिटनड",
+      "Pindrabad - पिनडरबड",
+      "Rajabasa - रजबस",
+      "Sukrigaria - सुकरिगरिया"
     ]
   },
   {
     "cluster": "Dungariya - डुंगरिया",
     "kutirName": [
-      "Chopna - चोपना",
-      "Dahiyar - दहियार",
-      "Devri - देओरी",
+      "Chopna - चोपन",
+      "Dahiyar - डहियर",
+      "Devri - डेवरि",
       "Dungariya - डुंगरिया",
-      "Nachna - नाचना",
-      "Padariya - पादरिया",
-      "Pipriyakala - पिपरियाकला",
-      "Tinsai - तिनसई"
+      "Nachna - नचन",
+      "Padariya - पडरिय",
+      "Pipriyakala - पिपरियकल",
+      "Tinsai - टिनसै"
     ]
   },
   {
     "cluster": "Eklera - एकलेरा",
     "kutirName": [
-      "Aabadi - आबादी",
-      "Bedgaon - बेड़गांव",
+      "Aabadi - आबडि",
+      "Bedgaon - बेडगोन",
       "Beragada - बेरागाड़ा",
-      "Bheelo ka tappar - भीलो का टप्पर",
+      "Bheelo ka tappar - भीलो क टपपर",
       "Eklera - एकलेरा",
       "Jabalpur - जबलपुर",
       "Singladeh - सिंगलादेह",
@@ -595,220 +595,220 @@
     ]
   },
   {
-    "cluster": "Gadhla - गढ़ला",
+    "cluster": "Gadhla - गढला",
     "kutirName": [
-      "Bhikha sahrana - भीखा सहराना",
-      "Chak bargawan - चक बरगावान",
-      "Gadhla - गढ़ला",
-      "Gothra - गोथरा",
-      "Kapoora - कपूरा",
-      "Karrai - कर्राई",
-      "Piprani - पिपरानी"
+      "Bhikha sahrana - भिख सहरन",
+      "Chak bargawan - चक बरगवन",
+      "Gadhla - गढला",
+      "Gothra - गोठर",
+      "Kapoora - कपूर",
+      "Karrai - कररै",
+      "Piprani - पिपरनि"
     ]
   },
   {
     "cluster": "Gara - गारा",
     "kutirName": [
-      "Bhanijkund - भानीजकुंड",
-      "Bhopliyamal - भपलियामाल",
+      "Bhanijkund - भनिजकुनड",
+      "Bhopliyamal - भोपलियमल",
       "Gara - गारा",
-      "Hatbawdi - हतबावड़ी",
-      "Morani - मोरानी",
-      "Ramgarh - रामगढ़",
+      "Hatbawdi - हटबवडि",
+      "Morani - मोरनि",
+      "Ramgarh - रमगरह",
       "Rosmal - रोज़मल"
     ]
   },
   {
     "cluster": "Gata - गाटा",
     "kutirName": [
-      "Ambaja - अम्बाजा",
+      "Ambaja - अमबज",
       "Gata - गाटा",
-      "Gondwani - गोंडवानी",
-      "Jamra faliya - जमरा फलिया",
-      "Kadai pani - कड़ाई पानी",
-      "Kiloda - किलोडा"
+      "Gondwani - गोनडवनि",
+      "Jamra faliya - जमर फलिया",
+      "Kadai pani - कडै पानी",
+      "Kiloda - किलोड"
     ]
   },
   {
     "cluster": "Harla - हरला",
     "kutirName": [
-      "Bedi fartala - बेड़ी फरतला",
+      "Bedi fartala - बेडि फरटल",
       "Eedri - ईदरी",
       "Harla - हरला",
       "Laijhapi - लाईझापी",
       "Limbi - लिंबी",
-      "Rosar (kamad faliya) - रोसर (कामद फलिया)",
-      "Siraspani - सिरसपानी",
-      "Thuthsemal - थुथसेमल"
+      "Rosar (kamad faliya) - रोसर (कमड फलिया)",
+      "Siraspani - सिरसपनि",
+      "Thuthsemal - ठुठसेमल"
     ]
   },
   {
     "cluster": "Heerapur - हीरापुर",
     "kutirName": [
       "Ajnoi - अजनोई",
-      "Bagcha - बागचा",
-      "Davli - दावली",
-      "Dengda - डेंगड़ा",
+      "Bagcha - बगच",
+      "Davli - डवलि",
+      "Dengda - डेनगड",
       "Heerapur - हीरापुर",
-      "Kalarna - कालार्ना",
-      "Mar ka tapra - मार का टापरा"
+      "Kalarna - कलरन",
+      "Mar ka tapra - मर क टपर"
     ]
   },
   {
     "cluster": "Hidali - हिडाली",
     "kutirName": [
-      "Cheera - चीरा",
-      "Hardadadu - हरदाददू",
+      "Cheera - चीर",
+      "Hardadadu - हरडडडु",
       "Hidali - हिडाली",
-      "Jogli - जोगली",
-      "Jogli palanga - जोगली पलंगा",
-      "Kalyanpur - कल्याणपुर",
+      "Jogli - जोगलि",
+      "Jogli palanga - जोगलि पलनग",
+      "Kalyanpur - कलयनपुर",
       "Kekadiya kala - केकड़िया कला",
-      "Neemdhana - नीमढाना"
+      "Neemdhana - नीमढन"
     ]
   },
   {
     "cluster": "Jalda - जलदा",
     "kutirName": [
-      "Bouna - बौना",
+      "Bouna - बौन",
       "Jalda - जलदा",
-      "Kathariya - कठारिया",
-      "Keritola - केरीटोला",
-      "Kharahil tola - खराहित टोला",
-      "Mangarh - मानगढ़",
+      "Kathariya - कठरिय",
+      "Keritola - केरिटोल",
+      "Kharahil tola - खरहिल टोला",
+      "Mangarh - मनगरह",
       "Pipariya - पिपरिया",
-      "Sendurkhar - सेंदुरखार"
+      "Sendurkhar - सेनडुरखर"
     ]
   },
   {
     "cluster": "Jamniya - जामनिया",
     "kutirName": [
-      "Ghoda path - घोड़ा पाथ",
+      "Ghoda path - घोड पठ",
       "Jamniya kala - जामनिया कला",
       "Jamniya khurd - जामनिया खुर्द",
-      "Jamukho - जामुखो",
-      "Kala kahu - काला कहू",
+      "Jamukho - जमुखो",
+      "Kala kahu - कला कहु",
       "Khari - खारी",
-      "Umri - उमरी"
+      "Umri - उमरि"
     ]
   },
   {
     "cluster": "Jamu - जामु",
     "kutirName": [
-      "Gorkhidhana - गोरखीढाना",
-      "Gullardhana - गुलारढाना",
+      "Gorkhidhana - गोरखिढन",
+      "Gullardhana - गुललरढन",
       "Jamu - जामु",
-      "Lohardhana - लोहारढाना",
-      "Ringdhana - रिंगढाना",
-      "Shikaridhana - शिकारीढाना",
-      "Sitapur - सीतापुर",
-      "Utti - उत्ती"
+      "Lohardhana - लोहरढन",
+      "Ringdhana - रिनगढन",
+      "Shikaridhana - शिकरिढन",
+      "Sitapur - सिटपुर",
+      "Utti - उटटि"
     ]
   },
   {
     "cluster": "Jeerudhana - जीरुढाना",
     "kutirName": [
-      "Dhundhari - धुंधारी",
-      "Gadakhar - गडाखार",
-      "Jadhiya - जढिया",
+      "Dhundhari - ढुनढरि",
+      "Gadakhar - गडखर",
+      "Jadhiya - जढिय",
       "Jeerudhana - जीरुढाना",
-      "Kabra - काबरा",
+      "Kabra - कबर",
       "Paat - पाट",
-      "Patari - पटारी",
-      "Teram - तेराम"
+      "Patari - पटरि",
+      "Teram - टेरम"
     ]
   },
   {
     "cluster": "Jhaprahva - झपराहवा",
     "kutirName": [
-      "Bhainsur - भैंसुर",
-      "Bodrahawa - बोदराहावा",
+      "Bhainsur - भैनसुर",
+      "Bodrahawa - बोडरहव",
       "Harijan basti - हरिजन बस्ती",
-      "Jamtihva - जमतीहवा",
+      "Jamtihva - जमटिहव",
       "Jhaprahva - झपराहवा",
-      "Mainahva - मैनहवा",
-      "Najar pahri - नजर पहरी",
-      "Sindhar - सिंधार",
-      "Tenduha - तेंदुआ"
+      "Mainahva - मैनहव",
+      "Najar pahri - नजर पहरि",
+      "Sindhar - सिनढर",
+      "Tenduha - टेनडुह"
     ]
   },
   {
     "cluster": "Jhatijharna - झाटीझरना",
     "kutirName": [
-      "Balidih - बलिडीह",
+      "Balidih - बलिडिह",
       "Baliyam - बलियम",
-      "Bhamradih - भामराडीह",
-      "Bhumru - भुमरू",
+      "Bhamradih - भमरडिह",
+      "Bhumru - भुमरु",
       "Jhatijharna - झाटीझरना",
-      "Kashidanga(fuljhor) - काशीडांगा(फुलझोर)"
+      "Kashidanga(fuljhor) - कशिडनग(फुलझोर)"
     ]
   },
   {
     "cluster": "Jhirpi - झिरपी",
     "kutirName": [
-      "Baranala - बरनाला",
-      "Basigad - बासीगड़",
-      "Dugaliya - दुगलिया",
-      "Jhapnadeh - झापनेदेह",
+      "Baranala - बरनल",
+      "Basigad - बसिगड",
+      "Dugaliya - डुगलिय",
+      "Jhapnadeh - झपनडेह",
       "Jhirpi - झिरपी",
-      "Nani makdai - नानी मकड़ाई",
-      "Sanwari - सांवरी"
+      "Nani makdai - ननि मकडै",
+      "Sanwari - सनवरि"
     ]
   },
   {
     "cluster": "Jhunjka - झुंजका",
     "kutirName": [
-      "Bataluka - बटालुका",
-      "Ghorabandha - घोड़ाबंधा",
-      "Jamdih - जमडीह",
-      "Jerka - जेरका",
+      "Bataluka - बटलुक",
+      "Ghorabandha - घोरबनढ",
+      "Jamdih - जमडिह",
+      "Jerka - जेरक",
       "Jhunjka - झुंजका",
-      "Mahulbasa - माहुलबासा",
-      "Meghada - मेघाड़ा",
-      "Sari - सारी"
+      "Mahulbasa - महुलबस",
+      "Meghada - मेघड",
+      "Sari - सरि"
     ]
   },
   {
-    "cluster": "Junapani - जूनापानी",
+    "cluster": "Junapani - जुनापानी",
     "kutirName": [
-      "Aamakhal - आमखाल",
-      "Anjrood ryt - अजरूद रैयत",
-      "Dhakankhali - ढाकनखली",
+      "Aamakhal - आमखल",
+      "Anjrood ryt - अनजरूड रैयत",
+      "Dhakankhali - ढकनखलि",
       "Jamoda - जामोदा",
-      "Junapani - जूनापानी",
-      "Magarya - मगरिया",
+      "Junapani - जुनापानी",
+      "Magarya - मगरय",
       "Mirpur - मीरपुर",
-      "Mohiniya dhana - मोहिनिया ढाना",
-      "Mojbadi - मोजबाड़ी",
-      "Pipalpani - पीपलपानी",
-      "Richhadiya - रिछड़िया",
-      "Saliya kheda - सालिया खेड़ा",
-      "Sonpura - सोनपुरा",
-      "Sukawi - सुकावि",
+      "Mohiniya dhana - मोहिनिय ढाना",
+      "Mojbadi - मोजबडि",
+      "Pipalpani - पिपलपनि",
+      "Richhadiya - रिछडिय",
+      "Saliya kheda - सलिय खेड़ा",
+      "Sonpura - सोनपुर",
+      "Sukawi - सुकवि",
       "Udiyapur raiyat - उदियापुर रैयत"
     ]
   },
   {
     "cluster": "Kalibel - कालीबेल",
     "kutirName": [
-      "Badi gendra - बड़ी गेंदरा",
+      "Badi gendra - बड़ी गेनडर",
       "Badi patel faliya - बड़ी पटेल फलिया",
-      "Badi sirkhadi - बड़ी सिरखड़ी",
-      "Datniya faliya - दतनिया फलिया",
+      "Badi sirkhadi - बड़ी सिरखडि",
+      "Datniya faliya - डटनिय फलिया",
       "Kalibel - कालीबेल",
-      "Lakadkuta - लाकड़कुटा",
-      "Matar bara - मटर बारा",
-      "Rundmal - रुंदमाल",
-      "Sakadi faliya mundla - सकड़ी फलिया मुंडला"
+      "Lakadkuta - लकडकुट",
+      "Matar bara - मटर बर",
+      "Rundmal - रुनडमल",
+      "Sakadi faliya mundla - सकडि फलिया मुंडला"
     ]
   },
   {
     "cluster": "Karajwani - करजवानी",
     "kutirName": [
       "Badi mal - बड़ी माल",
-      "Chilwat katri faliya - चिलवट कटरी फलिया",
-      "Dhanbayadi - धनबायादी",
-      "Holi faliya - होली फलिया",
+      "Chilwat katri faliya - चिलवट कत्रि फलिया",
+      "Dhanbayadi - ढनबयडि",
+      "Holi faliya - होलि फलिया",
       "Karajwani - करजवानी",
       "Patel faliya (wakner) - पटेल फलिया (वकनेर)"
     ]
@@ -816,29 +816,29 @@
   {
     "cluster": "Karbematta - करबेमट्टा",
     "kutirName": [
-      "Baigantola 2 - बैगनटोला 2",
-      "Barsod - बरसोद",
+      "Baigantola 2 - बैगनटोल 2",
+      "Barsod - बरसोड",
       "Karbematta - करबेमट्टा",
-      "Kikratalab - किक्रतालाब",
-      "Nanbai tola - नानबई टोला",
-      "Patan - पाटन",
-      "Patharkucha mal - पत्थरकुचा माल",
-      "Shivatola - शिवटोला",
-      "Shobhapur - शोभापुर"
+      "Kikratalab - किकरटलब",
+      "Nanbai tola - ननबै टोला",
+      "Patan - पटन",
+      "Patharkucha mal - पठरकुच माल",
+      "Shivatola - शिवटोल",
+      "Shobhapur - शोभपुर"
     ]
   },
   {
     "cluster": "Karida - करीदा",
     "kutirName": [
-      "Barra tingariya - बर्रा टिंगरिया",
-      "Bijori - बिजोरी",
-      "Bori - बोरी",
+      "Barra tingariya - बरर टिनगरिय",
+      "Bijori - बिजोरि",
+      "Bori - बोरि",
       "Karida - करीदा",
-      "Kunkhedi - कुनखेड़ी",
-      "Maidandhana - मैदानढाना",
-      "Palanga - पलंगा",
-      "Pateldhana - पटेलढाना",
-      "Tingariya - टिंगरिया"
+      "Kunkhedi - कुनखेडि",
+      "Maidandhana - मैडनढन",
+      "Palanga - पलनग",
+      "Pateldhana - पटेलढन",
+      "Tingariya - टिनगरिय"
     ]
   },
   {
@@ -846,53 +846,53 @@
     "kutirName": [
       "Chak rampura - चक रामपुरा",
       "Kariyadeh - करियादेह",
-      "Koond - कूंड",
-      "Kurkuta - कुरकुटा",
-      "Lohari - लोहारी",
-      "Patonda - पातोंडा",
-      "Sondhni - सोंधनी"
+      "Koond - कूनड",
+      "Kurkuta - कुरकुट",
+      "Lohari - लोहरि",
+      "Patonda - पटोनड",
+      "Sondhni - सोनढनि"
     ]
   },
   {
     "cluster": "Karopani - कारोपानी",
     "kutirName": [
-      "Basaniya - बसानिया",
-      "Budhgaon mal - बुधगांव माल",
+      "Basaniya - बसनिय",
+      "Budhgaon mal - बुढगोन माल",
       "Karopani - कारोपानी",
-      "Koudiya - कौड़िया",
-      "Pachgaon raiyat - पचगांव रैयत",
-      "Sangam tola - संगम टोला",
-      "Shivri - शिवरी",
-      "Sunhadadar - सुनहादादर",
-      "Ufri - उफ़री"
+      "Koudiya - कौडिय",
+      "Pachgaon raiyat - पचगोन रैयत",
+      "Sangam tola - सनगम टोला",
+      "Shivri - शिवरि",
+      "Sunhadadar - सुनहडडर",
+      "Ufri - उफरि"
     ]
   },
   {
     "cluster": "Karwad - करवाड़",
     "kutirName": [
-      "Amlipada - आमलीपाड़ा",
+      "Amlipada - अमलिपड",
       "Jambupada - जम्बूपाड़ा",
-      "Khakharapada - खखरापाड़ा",
-      "Khokhriya - खोखरिया",
-      "Runji - रुंजी",
-      "Suthwadia - सुथवाड़िया"
+      "Khakharapada - खखरपड",
+      "Khokhriya - खोखरिय",
+      "Runji - रुनजि",
+      "Suthwadia - सुठवडिया"
     ]
   },
   {
     "cluster": "Kasai - कसाई",
     "kutirName": [
-      "Bhondiya kund - भोंडिया कुंड",
-      "Borkhedi - बोरखेड़ी",
-      "Chikhlajhodi - चिखलाझोड़ी",
+      "Bhondiya kund - भोनडिय कुंड",
+      "Borkhedi - बोरखेडि",
+      "Chikhlajhodi - चिखलझोडि",
       "Ghoghal - घोघल",
-      "Harimau - हरिमाऊ",
-      "Jamukheda - जामुखेड़ा",
-      "Japandari - जापनदारी",
+      "Harimau - हरिमौ",
+      "Jamukheda - जमुखेड",
+      "Japandari - जपनडरि",
       "Kasai - कसाई",
-      "Kukru - कुकरू",
-      "Lokaldari - लोकलदारी",
-      "Pipridhana - पिपरीढाना",
-      "Salaydhana - सालेढाना"
+      "Kukru - कुकरु",
+      "Lokaldari - लोकलडरि",
+      "Pipridhana - पिपरिढन",
+      "Salaydhana - सलयढन"
     ]
   },
   {
@@ -900,7 +900,7 @@
     "kutirName": [
       "Bhayali - भयाली",
       "Chorwan - चोरवां",
-      "Dehari - देहरी",
+      "Dehari - डेहरी",
       "Jansur - जनसूर",
       "Jinwani - जिनवाणी",
       "Kanda - कांड",
@@ -912,9 +912,9 @@
     "cluster": "Kekadiya - केकड़िया",
     "kutirName": [
       "Bagda - बगदा",
-      "Chadida - चदीदा",
-      "Chattu battu - चत्तू बत्तू",
-      "Jhiridhana - झिरीढाना",
+      "Chadida - चडिड",
+      "Chattu battu - चटटु बटटु",
+      "Jhiridhana - झिरिढन",
       "Kekadiya - केकड़िया",
       "Mathni - मथनी"
     ]
@@ -922,45 +922,45 @@
   {
     "cluster": "Keonchi - केंवची",
     "kutirName": [
-      "Agariyapara - अगियापारा",
-      "Amadob - आमादोब",
-      "Baigapara - बैगापारा",
-      "Gourkheda - गौरखेड़ा",
-      "Kathoutiya - कठौतिया",
+      "Agariyapara - अगरियपर",
+      "Amadob - अमडोब",
+      "Baigapara - बैगपर",
+      "Gourkheda - गौरखेड",
+      "Kathoutiya - कठौटिय",
       "Keonchi - केंवची",
-      "Patpari - पतपारी",
-      "Uranvpara - उरांवपारा"
+      "Patpari - पटपरि",
+      "Uranvpara - उरनवपर"
     ]
   },
   {
     "cluster": "Khamraudh - खमरौध",
     "kutirName": [
-      "Ahirganwa - अहिरगंवा",
-      "Chatuwa - चतवा",
-      "Dhuradhar - धुराधार",
-      "Gijari - गिजारी",
-      "Katurdona - कतुरदोना",
+      "Ahirganwa - अहिरगनव",
+      "Chatuwa - चटुव",
+      "Dhuradhar - ढुरढर",
+      "Gijari - गिजरि",
+      "Katurdona - कटुरडोन",
       "Khamraudh - खमरौध",
       "Kui - कुई",
       "Pipraha-2 - पिपराहा-2",
-      "Thunguni - थुंगुनी"
+      "Thunguni - ठुनगुनि"
     ]
   },
   {
     "cluster": "Khategaon - खातेगांव",
     "kutirName": [
-      "Barwai - बरवाई",
-      "Mandaleshwar - मंडलेश्वर",
+      "Barwai - बरवै",
+      "Mandaleshwar - मनडलेशवर",
       "Navada - नेवदा",
-      "Surani - सुरानी"
+      "Surani - सुरनि"
     ]
   },
   {
     "cluster": "Khawasa - खवासा",
     "kutirName": [
       "Bhamariya - भामरिया",
-      "Itankheda - ईटनखेड़ा",
-      "Kadwali - कड़वाली",
+      "Itankheda - इटनखेड",
+      "Kadwali - कडवलि",
       "Madalda - मडालदा",
       "Nagari - नगरी",
       "Nawapada - नवापाड़ा",
@@ -970,11 +970,11 @@
   {
     "cluster": "Kheri - खेरी",
     "kutirName": [
-      "Badh - बढ़",
-      "Beel dabra - बील डाबरा",
-      "Dantee - दांती",
+      "Badh - बढ",
+      "Beel dabra - बील डबर",
+      "Dantee - डनटी",
       "Kheri - खेरी",
-      "Khirkhiri - खिरखिरी",
+      "Khirkhiri - खिरखिरि",
       "Shiv colony - शिव कॉलोनी"
     ]
   },
@@ -982,77 +982,60 @@
     "cluster": "Kherwani - खेरवानी",
     "kutirName": [
       "Bhadal - भादल",
-      "Jiwani - जिवानी",
-      "Kari - कारी",
-      "Khaydi faliya - खायड़ी फलिया",
+      "Jiwani - जिवनि",
+      "Kari - करि",
+      "Khaydi faliya - खयडि फलिया",
       "Kherwani - खेरवानी",
-      "Kotbandhani - कोटबंधनी"
-    ]
-  },
-  {
-    "cluster": "Khisi - खिसी",
-    "kutirName": [
-      "Basaniya - बसानिया",
-      "Bijora - बिजौरा",
-      "Ghughri - घुघरी",
-      "Ghughri ryt - घुघरी रैयत",
-      "Khisi - खिसी",
-      "Linga mal - लिंगा माल",
-      "Mohni ryt - मोहनी रैयत",
-      "Niwas mal - निवास माल",
-      "Nonia kapa - नोनिया कापा",
-      "Patal - पाताल",
-      "Sajpani - सजपानी",
-      "Tikariya - टिकरिया"
+      "Kotbandhani - कोटबनढनि"
     ]
   },
   {
     "cluster": "Kiti - किटी",
     "kutirName": [
-      "Chhakana ki maal - छकाना की माल",
-      "Keldi ki mal - केल्डी की माल",
+      "Chhakana ki maal - छकन कि माल",
+      "Keldi ki mal - केलडि कि माल",
       "Kiti - किटी",
-      "Lohar faliya - लोहार फलिया",
-      "Nichla faliya - निचला फलिया",
-      "Umarkhad - उमरखाड़"
+      "Lohar faliya - लोहर फलिया",
+      "Nichla faliya - निचल फलिया",
+      "Umarkhad - उमरखड"
     ]
   },
   {
     "cluster": "Kodar - कोडर",
     "kutirName": [
-      "Bulhupani - बुल्हूपानी",
-      "Daldali - दलदली",
+      "Bulhupani - बुलहुपनि",
+      "Daldali - डलडलि",
       "Kodar - कोडर",
-      "Kumhni - कुम्हनी",
-      "Mitthu mahua - मिट्ठू महुआ",
-      "Sarfa - सर्फा",
-      "Silvari - सिलवारी",
-      "Tarera - तरेरा",
-      "Udal - उदाल"
+      "Kumhni - कुमहनि",
+      "Mitthu mahua - मिटठु महुआ",
+      "Sarfa - सरफ",
+      "Silvari - सिलवरि",
+      "Tarera - टरेर",
+      "Udal - उडल"
     ]
   },
   {
     "cluster": "Kuli - कुली",
     "kutirName": [
-      "Ghughsi - घुघसी",
-      "Kadvalya faliya semli - कडवल्या फलिया सेमली",
+      "Ghughsi - घुघसि",
+      "Kadvalya faliya semli - कडवलय फलिया सेमलि",
       "Khajpur - खजपुर",
       "Kuli - कुली",
-      "Nimani faliya borkhedi - निमानी फलिया बोरखेड़ी",
-      "Pakhalya faliya - पाखल्या फलिया",
-      "Palaspani faliya borkhedi - पालसपानी फलिया बोरखेड़ी",
-      "Sulya faliya pospur - सुल्या फलिया पोसपुर"
+      "Nimani faliya borkhedi - निमनि फलिया बोरखेडि",
+      "Pakhalya faliya - पखलय फलिया",
+      "Palaspani faliya borkhedi - पलसपनि फलिया बोरखेडि",
+      "Sulya faliya pospur - सुलय फलिया पोसपुर"
     ]
   },
   {
     "cluster": "Kuno - कूनो",
     "kutirName": [
-      "Bansraiya - बांसरेया",
-      "Based - बसेद",
+      "Bansraiya - बनसरैय",
+      "Based - बसेड",
       "Chak colony - चक कॉलोनी",
-      "Kurachor khurd - कुराचोर खुर्द",
-      "Resham kendra - रेशम केंद्र",
-      "Silori - सिलोरी"
+      "Kurachor khurd - कुरचोर खुर्द",
+      "Resham kendra - रेशम केनडर",
+      "Silori - सिलोरि"
     ]
   },
   {
@@ -1061,7 +1044,7 @@
       "Ameth - अमेथ",
       "Badretha - बदरेठा",
       "Chandpur - चांदपुर",
-      "Indira colony - इंदिरा कॉलोनी",
+      "Indira colony - इनडिर कॉलोनी",
       "Jakhda - जाखड़ा",
       "Lahroni - लाहरोनी",
       "Pali - पाली"
@@ -1070,23 +1053,23 @@
   {
     "cluster": "Lakhajhiri - लखाझिरी",
     "kutirName": [
-      "Dhodra - धोदरा",
-      "Godadiya - गोदादिया",
-      "Imalipani - इमलीपानी",
-      "Jhangripani - झांगरीपानी",
-      "Kokadhana - कोकाढाना",
+      "Dhodra - ढोडर",
+      "Godadiya - गोडडिय",
+      "Imalipani - इमलिपनि",
+      "Jhangripani - झनगरिपनि",
+      "Kokadhana - कोकढन",
       "Lakhajhiri - लखाझिरी",
-      "Rambha - रम्भा",
-      "Sadakdhana - सड़कढाना",
-      "Sonajidhana - सोनाजीढाना"
+      "Rambha - रमभ",
+      "Sadakdhana - सडकढन",
+      "Sonajidhana - सोनजिढन"
     ]
   },
   {
     "cluster": "Laxmipura - लक्ष्मीपुरा",
     "kutirName": [
-      "Agarra - अगर्रा",
-      "Beelbara khurd - बीलबारा खुर्द",
-      "Bhaisda - भैंसडा",
+      "Agarra - अगरर",
+      "Beelbara khurd - बीलबर खुर्द",
+      "Bhaisda - भैसड",
       "Bhavkhedi - भावखेड़ी",
       "Laxmipura - लक्ष्मीपुरा",
       "Patha - पाठा",
@@ -1098,23 +1081,23 @@
     "kutirName": [
       "Dungariya - डुंगरिया",
       "Machhariya - मछरिया",
-      "Paddikona - पड्डीकोना",
-      "Putrai - पुत्राई"
+      "Paddikona - पडडिकोन",
+      "Putrai - पुत्रै"
     ]
   },
   {
     "cluster": "Machla - माछला",
     "kutirName": [
-      "Basaniya - बसानिया",
+      "Basaniya - बसनिय",
       "Dongargaon - डोंगरगाँव",
-      "Harratikur - हर्राटिकुर",
-      "Jhina - झिना",
-      "Kudopani - कुडोपानी",
+      "Harratikur - हररटिकुर",
+      "Jhina - झिन",
+      "Kudopani - कुडोपनि",
       "Machla - माछला",
-      "Mirchakheda - मिर्चखेड़ा",
-      "Nidhani - निधानी",
+      "Mirchakheda - मिरचखेड",
+      "Nidhani - निढनि",
       "Pipariya - पिपरिया",
-      "Sudgaon - सुदगांव"
+      "Sudgaon - सुडगोन"
     ]
   },
   {
@@ -1131,24 +1114,24 @@
   {
     "cluster": "Magardha - मगरधा",
     "kutirName": [
-      "Bakhari mal - बखारी माल",
-      "Chinga - चिंगा",
-      "Davajhir - दवाझिर",
-      "Deori - देओरी",
-      "Kusmi - कुसमी",
+      "Bakhari mal - बखरि माल",
+      "Chinga - चिनग",
+      "Davajhir - डवझिर",
+      "Deori - डेओरि",
+      "Kusmi - कुसमि",
       "Magardha - मगरधा",
-      "Singhanpuri - सिंघानपुरी"
+      "Singhanpuri - सिनघनपुरि"
     ]
   },
   {
     "cluster": "Mahdewa - महादेवा",
     "kutirName": [
-      "Baglon - बागलोन",
-      "Dehde - देहदे",
-      "Dobha - डोभा",
-      "Lokhari - लोखारी",
+      "Baglon - बगलोन",
+      "Dehde - डेहडे",
+      "Dobha - डोभ",
+      "Lokhari - लोखरि",
       "Mahdewa - महादेवा",
-      "Mohra - मोहरा"
+      "Mohra - मोहर"
     ]
   },
   {
@@ -1157,307 +1140,289 @@
       "Dholikhali - ढोलीखाली",
       "Garbadi - गरबडी",
       "Juwanpura - जुवानपुरा",
-      "Kalikarai - कालीकराई",
+      "Kalikarai - कलिकरै",
       "Khindakho - खिंडाखो",
-      "Kotda - कोटड़ा"
+      "Kotda - कोटड"
     ]
   },
   {
     "cluster": "Mahloni - महलोनी",
     "kutirName": [
-      "Agradanda - अग्रडांडा",
-      "Digdauli - दिग्दौली",
+      "Agradanda - अगरडनड",
+      "Digdauli - डिगडौलि",
       "Jigni - जिगनी",
-      "Lohrehar - लोह्रेहार",
+      "Lohrehar - लोहरेहर",
       "Mahloni - महलोनी",
       "Para - पारा",
-      "Tapra - टापरा",
-      "Tuki - टुकी"
+      "Tapra - टपर",
+      "Tuki - टुकि"
     ]
   },
   {
     "cluster": "Mahora - महोरा",
     "kutirName": [
-      "Boda - बोडा",
-      "Dongari tola - डोंगरी टोला",
-      "Duwari - दुवारी",
-      "Kasturi - कस्तूरी",
-      "Khursi - खुर्सी",
+      "Boda - बोड",
+      "Dongari tola - डोनगरि टोला",
+      "Duwari - डुवरि",
+      "Kasturi - कसटुरि",
+      "Khursi - खुरसि",
       "Mahora - महोरा",
-      "Paladongri - पालाडोंगरी",
-      "Tanaja - तनाजा"
+      "Paladongri - पलडोनगरि",
+      "Tanaja - टनज"
     ]
   },
   {
     "cluster": "Mahukhal - महुखाल",
     "kutirName": [
-      "Aamba - आंबा",
-      "Bothi - बोथी",
-      "Gangradhana - गंगराढाना",
-      "Gorakhal - गोराखाल",
-      "Kayari - कयारी",
+      "Aamba - आमब",
+      "Bothi - बोठि",
+      "Gangradhana - गनगरढन",
+      "Gorakhal - गोरखल",
+      "Kayari - कयरि",
       "Mahukhal - महुखाल",
-      "Mannasa - मन्नासा"
+      "Mannasa - मननस"
     ]
   },
   {
     "cluster": "Majarvani - मजरवानी",
     "kutirName": [
-      "Beldhana - बेलढाना",
-      "Chopni khurd - चोपनी खुर्द",
-      "Dhamnya - धामन्या",
+      "Beldhana - बेलढन",
+      "Chopni khurd - चोपनि खुर्द",
+      "Dhamnya - ढमनय",
       "Dhana - ढाना",
-      "Dhokna - धोकना",
-      "Dodapokharni - डोडपोखरनी",
-      "Gadagohan - गडगोहान",
+      "Dhokna - ढोकन",
+      "Dodapokharni - डोडपोखरनि",
+      "Gadagohan - गडगोहन",
       "Majarvani - मजरवानी",
-      "Umandla - उमंडला"
+      "Umandla - उमनडल"
     ]
   },
   {
     "cluster": "Majhigawan - मझिगवां",
     "kutirName": [
-      "Beldiha - बेल्दिहा",
-      "Bhadaura - भदौरा",
-      "Bhaiswahi - भैंसवाही",
-      "Chitrauli - चित्रौली",
-      "Chokari - चोकरी",
+      "Beldiha - बेलडिह",
+      "Bhadaura - भडौर",
+      "Bhaiswahi - भैसवहि",
+      "Chitrauli - चित्रौलि",
+      "Chokari - चोकरि",
       "Majhigawan - मझिगवां",
-      "Palihan tola juri - पालिहन टोला जुरी",
-      "Patidol - पतिडोल",
-      "Runda - रुंडा"
+      "Palihan tola juri - पलिहन टोला जुरि",
+      "Patidol - पटिडोल",
+      "Runda - रुनड"
     ]
   },
   {
     "cluster": "Markadhana - मरकाढाना",
     "kutirName": [
-      "Bangai - बनगई",
-      "Gaildubba - गैलदुब्बा",
-      "Ghanakaudiya - घनकौड़िया",
-      "Harasdiwari - हरसदि्वारी",
-      "Karrapani - कर्रापानी",
+      "Bangai - बनगै",
+      "Gaildubba - गैलडुबब",
+      "Ghanakaudiya - घनकौडिय",
+      "Harasdiwari - हरसडिवरि",
+      "Karrapani - कररपनि",
       "Markadhana - मरकाढाना",
-      "Nishan - निशान",
-      "Thanakheda - थानाखेड़ा"
+      "Nishan - निशन",
+      "Thanakheda - ठनखेड"
     ]
   },
   {
     "cluster": "Mathmath - मठमठ",
     "kutirName": [
-      "Baliyapada - बलियापाड़ा",
+      "Baliyapada - बलियपड",
       "Devgarh - देवगढ़",
-      "Dhavdiya - धवड़िया",
+      "Dhavdiya - ढवडिय",
       "Kagalkho - कगलखो",
-      "Piplipada - पीपलीपाड़ा",
-      "Sadediya - सदेडिया"
+      "Piplipada - पिपलिपड",
+      "Sadediya - सडेडिय"
     ]
   },
   {
     "cluster": "Moravan - मोरावन",
     "kutirName": [
-      "Adhwada - अधवाड़ा",
-      "Baghchakrana - बाघचक्राणा",
-      "Gadi moravan - गढ़ी मोरावन",
-      "Hathedi - हथेडि",
+      "Adhwada - अढवड",
+      "Baghchakrana - बघचकरन",
+      "Gadi moravan - गडि मोरावन",
+      "Hathedi - हठेडि",
       "Moravan - मोरावन",
-      "Tiktoli - तक्तोली"
+      "Tiktoli - टिकटोलि"
     ]
   },
   {
     "cluster": "Motiya - मोतिया",
     "kutirName": [
-      "Ajabgadh - अजबगढ़",
-      "Ghughad - घुघड़",
-      "Gujarpada - गुर्जरपाड़ा",
+      "Ajabgadh - अजबगढ",
+      "Ghughad - घुघड",
+      "Gujarpada - गुजरपड",
       "Khandan 2 - खानदान 2",
       "Motiya - मोतिया",
-      "Rela - रेला"
+      "Rela - रेल"
     ]
   },
   {
     "cluster": "Mugwani - मुगवानी",
     "kutirName": [
-      "Amjhar - आमझर",
-      "Bhanpur - भानपुर",
-      "Bodassil - बोडासिल",
-      "Jhurgi - झुरगी",
-      "Kumharra - कुम्हर्रा",
+      "Amjhar - अमझर",
+      "Bhanpur - भनपुर",
+      "Bodassil - बोडससिल",
+      "Jhurgi - झुरगि",
+      "Kumharra - कुमहरर",
       "Mugwani - मुगवानी",
       "Panchhipani - पंछीपानी",
-      "Patadei - पातादेई",
-      "Paudi - पौड़ी",
-      "Pipardarra - पीपरदर्रा"
+      "Patadei - पटडेआई",
+      "Paudi - पौडि",
+      "Pipardarra - पिपरडरर"
     ]
   },
   {
     "cluster": "Murum - मुरुम",
     "kutirName": [
-      "Batranga - बतरंगा",
-      "Bhogadwar - भोगद्वार",
-      "Dulhapur - दुल्हापुर",
-      "Ghummur - घुम्मुर",
-      "Kidgi tola - किदगी टोला",
-      "Kodbirkona - कोडबीरकोना",
-      "Maliya - मलिया",
+      "Batranga - बत्रनग",
+      "Bhogadwar - भोगडवर",
+      "Dulhapur - डुलहपुर",
+      "Ghummur - घुममुर",
+      "Kidgi tola - किडगि टोला",
+      "Kodbirkona - कोडबिरकोन",
+      "Maliya - मलिय",
       "Murum - मुरुम",
-      "Rashimeta - रश्मिमेटा"
+      "Rashimeta - रशिमेट"
     ]
   },
   {
     "cluster": "Nadan - नादान",
     "kutirName": [
-      "Bharla pathar - भरला पत्थर",
-      "Dhaikheda - धईखेड़ा",
-      "Durganayak - दुर्गनायक",
-      "Kosmi - कोसमी",
-      "Mandalgarh - मांडलगढ़",
+      "Bharla pathar - भरल पत्थर",
+      "Dhaikheda - ढैखेड",
+      "Durganayak - डुरगनयक",
+      "Kosmi - कोसमि",
+      "Mandalgarh - मनडलगरह",
       "Nadan - नादान",
-      "Sankota - संकोटा",
-      "Veerpura - वीरपुरा"
-    ]
-  },
-  {
-    "cluster": "Nagotar - नगोटर",
-    "kutirName": [
-      "Kutbi - कुटबी",
-      "Nagotar - नगोटर"
+      "Sankota - सनकोट",
+      "Veerpura - वीरपुर"
     ]
   },
   {
     "cluster": "Nagpokhar - नागपोखर",
     "kutirName": [
-      "Chhabri kadiya - छबरी कड़िया",
-      "Haiki - हायकी",
+      "Chhabri kadiya - छबरि कडिय",
+      "Haiki - हैकि",
       "Hardi - हरदी",
-      "Khairi - खैरी",
-      "Kundaur - कुंदौर",
+      "Khairi - खैरि",
+      "Kundaur - कुनडौर",
       "Nagpokhar - नागपोखर",
-      "Piparidol - पीपरडोल",
-      "Pipraha harraha - पिपराहा हर्रहा",
-      "Taal - ताल"
-    ]
-  },
-  {
-    "cluster": "Nagula - नागुला",
-    "kutirName": [
-      "Nagula - नागुला",
-      "Upharikhurd - उपहरिखुर्द"
+      "Piparidol - पिपरिडोल",
+      "Pipraha harraha - पिपराहा हररह",
+      "Taal - टाल"
     ]
   },
   {
     "cluster": "Narsinghpura - नरसिंहपुरा",
     "kutirName": [
-      "Bhurighati - भूरीघाटी",
-      "Junapani - जूनापानी",
-      "Kayarel - कयारेल",
+      "Bhurighati - भुरिघटि",
+      "Junapani - जुनापानी",
+      "Kayarel - कयरेल",
       "Kheda - खेड़ा",
       "Narsinghpura - नरसिंहपुरा",
-      "Samripada - समरीपाड़ा",
-      "Semari - सेमरी"
-    ]
-  },
-  {
-    "cluster": "Navada - नेवदा",
-    "kutirName": [
-      "Navada - नेवदा"
+      "Samripada - समरिपड",
+      "Semari - सेमरि"
     ]
   },
   {
     "cluster": "Navalpura - नवलपुरा",
     "kutirName": [
-      "Baamala dadh - बामला दाढ़",
-      "Beelkheda khurd - बीलखेड़ा खुर्द",
-      "Jaamun chhapri - जामुनछापड़ी",
-      "Khamkheda - खामखेड़ा",
+      "Baamala dadh - बामल डढ",
+      "Beelkheda khurd - बीलखेड खुर्द",
+      "Jaamun chhapri - जामुन छपरि",
+      "Khamkheda - खमखेड",
       "Navalpura - नवलपुरा",
-      "Ratnakhedi - रत्नाखेड़ी",
-      "Salikheda - सालिखेड़ा",
+      "Ratnakhedi - रटनखेडि",
+      "Salikheda - सलिखेड",
       "Sohankheda - सोहनखेड़ा"
     ]
   },
   {
     "cluster": "Nayapura - नयापुरा",
     "kutirName": [
-      "Baglikheda - बागलीखेड़ा",
+      "Baglikheda - बगलिखेड",
       "Habeeb nagar - हबीब नगर",
-      "Jamunjheel - जामुनझील",
-      "Kuri - कुरी",
-      "Mograkheda - मोगराखेड़ा",
+      "Jamunjheel - जमुनझील",
+      "Kuri - कुरि",
+      "Mograkheda - मोगरखेड",
       "Nayapura - नयापुरा",
-      "Sewaniya - सेवानिया",
+      "Sewaniya - सेवनिय",
       "Suapani - सुआपानी"
     ]
   },
   {
     "cluster": "Nichli - निचली",
     "kutirName": [
-      "Barrapather - बर्रापत्थर",
-      "Jamuniya - जमुनिया",
-      "Mandwa - मांडवा",
-      "Nandiya - नंदिया",
+      "Budhera - बुढेरा",
+      "Chhapal - छपल",
+      "Dampuri - डमपुरि",
+      "Khursipar - खुरसिपर",
       "Nichli - निचली",
-      "Sakhadeh - साखादेह"
+      "Pipriya raiyat - पिपरिय रैयत",
+      "Selvada - सेलवड",
+      "Tikariya - टिकरिय"
     ]
   },
   {
     "cluster": "Nishana - निशाना",
     "kutirName": [
-      "Amrutpani - अमृतपानी",
-      "Bondri - बोंदरी",
-      "Budhitola - बुढ़ीटोला",
-      "Dhawadakund - धवाडाकुण्ड",
-      "Kamtha - कामठा",
+      "Bhadridhana - भडरिढन",
+      "Chohta - चोहट",
+      "Ghogra - घोगर",
+      "Imlidhoh - इमलिढोह",
+      "Karanjidol - करनजिडोल",
       "Nishana - निशाना",
-      "Pat - पाट",
-      "Saldhana - सालढाना"
+      "Popati - पोपटि",
+      "Sotkheda - सोटखेड"
     ]
   },
   {
     "cluster": "Ochhapura - ओछापुरा",
     "kutirName": [
-      "Ambedkar colony - अम्बेडकर कॉलोनी",
-      "Bagcha saharana - बागचा सहराना",
-      "Bawadiya - बावड़िया",
-      "Bawdi ka saharana - बावड़ी का सहराना",
-      "Behadad - बेहदद",
-      "Dhamini - धामिनी",
-      "Ladiyadeh - लादियादेह",
-      "Ochhapura - ओछापुरा"
+      "Badai ka sahrana - बडै क सहरन",
+      "Golipura no. 2 - गोलिपुर नो. 2",
+      "Gondeliyapura - गोनडेलियपुर",
+      "Jahangarh - जहनगरह",
+      "Laxmanpura - लक्समनपुर",
+      "Ochha ki jhopdi - ओछ कि झोपडि"
     ]
   },
   {
     "cluster": "Pahadi - पहाड़ी",
     "kutirName": [
       "Agra - आगरा",
-      "Bheemlat - भीमलात",
-      "Devpura - देवपुरा",
+      "Chitara - चिटर",
       "Doondi kheda - डूंडी खेड़ा",
-      "Khirkhiri - खिरखिरी",
+      "Haripura - हरिपुरा",
+      "Madanpur - मडनपुर",
+      "Nayagaon - नयागांव",
       "Pahadi - पहाड़ी"
     ]
   },
   {
     "cluster": "Palani - पलानी",
     "kutirName": [
-      "Amrapali - आम्रपाली",
-      "Atariya - अटरिया",
-      "Bagai - बगई",
+      "Anchalkund - अनचलकुनड",
+      "Bhalpani - भलपनि",
+      "Chaurasi - चौरसि",
+      "Chhua - छुआ",
+      "Manakwadi - मनकवडि",
+      "Nandramdhana - ननडरमढन",
       "Palani - पलानी",
-      "Samripada - समरीपाड़ा",
-      "Semari - सेमरी"
+      "Simariya - सिमरिय"
     ]
   },
   {
     "cluster": "Pandripani - पांड्रपानी",
     "kutirName": [
-      "Barritola - बर्रीटोला",
-      "Bhairavtola - भैरवटोला",
-      "Dhurvatola - धुर्वटोला",
+      "Bendrapani - बेनडरपनि",
+      "Chhirhitti - छिरहिटटि",
+      "Dahibahra - डहिबहर",
+      "Ghuipani - घुईपनि",
       "Pandripani - पांड्रपानी",
-      "Sajapani - सजपानी",
-      "Sitalpani - सीतलपानी",
-      "Talai para - तलई पारा",
-      "Tikripara - टिकरीपारा"
+      "Saraipani - सरैपनि",
+      "Uparpara - उपरपर"
     ]
   },
   {
@@ -1465,144 +1430,195 @@
     "kutirName": [
       "Chakk - चक",
       "Dorani - डोरानी",
-      "Gajipur - गाजीपुर",
-      "Gohan - गोहान",
       "Jhalmada - झालमाड़ा",
-      "Parasari - पारासरी"
+      "Kankarkhedi - कनकरखेडि",
+      "Parasari - परसरी",
+      "Sarwani - सरवनि",
+      "Sikandpura - सिकनडपुर"
     ]
   },
   {
     "cluster": "Patalkot - पातालकोट",
     "kutirName": [
-      "Chimdi - चिमड़ी",
-      "Gaildubba - गैलदुब्बा",
-      "Ghatlinga - घाटलिंगा",
-      "Gudichhatri - गुड़ीछत्री",
-      "Jhidpa - झिडपा",
-      "Kariya - कारिया",
-      "Sidhuli - सिधुली",
-      "Sukhabhand - सूखाभांड"
+      "Batra - बत्र",
+      "Chimtipur - चिमटिपुर",
+      "Dhankhodra - ढनखोडर",
+      "Dongra - डोनगर",
+      "Harrakachhar - हररकछर",
+      "Pachadhana - पचढन",
+      "Pachgoldhana - पचगोलढन",
+      "Rated - रटेड",
+      "Sarrapani - सररपनि"
     ]
   },
   {
     "cluster": "Pathara - पथरा",
     "kutirName": [
-      "Amrapali - आम्रपाली",
-      "Atariya - अटरिया",
-      "Bagai - बगई",
-      "Dhediya - धेडिया",
-      "Khapa - खापा",
+      "Hathikhoh - हठिखोह",
+      "Jogiwadi - जोगिवडि",
       "Pathara - पथरा",
-      "Poutha - पौठा",
-      "Samripada - समरीपाड़ा",
-      "Semari - सेमरी"
+      "Pati - पटि",
+      "Raiyaraw - रैयरव",
+      "Saundhni - सौनढनि",
+      "Umrikhurd - उमरिखुरड"
     ]
   },
   {
     "cluster": "Pathariya - पथरिया",
     "kutirName": [
-      "Badar mal - बादर माल",
-      "Karbewahi - करबेवाही",
-      "Karamatta - करमत्ता",
-      "Narsinghpura - नरसिंहपुरा",
+      "Bhadratola - भडरटोल",
+      "Ghopatpur - घोपटपुर",
+      "Khirsari - खिरसरि",
+      "Kukariya - कुकरिय",
+      "Lamantola - लमनटोल",
+      "Neemtola - नीमटोल",
       "Pathariya - पथरिया",
-      "Rayat - रैयत",
-      "Samripada - समरीपाड़ा",
-      "Sarsala - सरसाला"
+      "Singhpur mal - सिनघपुर माल"
     ]
   },
   {
     "cluster": "Piprahwa - पिपराहवा",
     "kutirName": [
-      "Bahara - बहरा",
-      "Chhidhiya - छिधिया",
-      "Dodha - डोढ़ा",
-      "Goratola - गोरटोला",
-      "Hardihawa - हरदिहावा",
+      "Ajagudh - अजगुढ",
+      "Birkuniya - बिरकुनिय",
+      "Bodihar - बोडिहर",
+      "Churki - चुरकि",
+      "Laliyabodar - ललियबोडर",
+      "Pateree - पटेरी",
       "Piprahwa - पिपराहवा",
-      "Singhauli - सिंघाउली"
+      "Viktha - विकठ"
     ]
   },
   {
     "cluster": "Punjapura - पुंजापुरा",
     "kutirName": [
-      "Eklera - एकलेरा",
+      "Borpadaw - बोरपडव",
       "Kardi - कार्डी",
       "Keotiyapani - केवटियापानी",
+      "Kholchipura - खोलचिपुर",
       "Postipura - पोस्तीपुरा",
-      "Punjapura - पुंजापुरा",
-      "Rupleypura - रूपलेपुरा"
+      "Rupalyapura - रुपलयपुर"
     ]
   },
   {
     "cluster": "Pyaripura - प्यारीपुरा",
     "kutirName": [
-      "Amli - आमली",
-      "Anoop pura - अनूप पुरा",
-      "Arrod - अर्रोड",
-      "Bawri - बावरी",
-      "Kalmi - कल्मी",
-      "Piprani - पिपरानी",
-      "Pyaripura - प्यारीपुरा"
+      "Khairua ka pura - खैरुआ क पुरा",
+      "Latavani - लटवनि",
+      "Pyaripura - प्यारीपुरा",
+      "Salmanya - सलमनय",
+      "Sarjupura - सरजुपुर",
+      "Subkara - सुबकर"
     ]
   },
   {
     "cluster": "Rampura - रामपुरा",
     "kutirName": [
-      "Akoriya - अकोरिया",
-      "Bhimlat - भीमलात",
-      "Indira colony - इंदिरा कॉलोनी",
-      "Kaimkahar - कैमकहर",
-      "Kukarghati - कुकरघाटी",
-      "Rampura - रामपुर"
+      "Dangvarve - डनगवरवे",
+      "Rampura - रामपुरा",
+      "Batkakhedi - बटकखेडि",
+      "Mehra - मेहर",
+      "Nonhetakhurd - नोनहेटखुरड",
+      "Patpari - पटपरि",
+      "Taprpura - टपरपुर"
     ]
   },
   {
     "cluster": "Ranipura - रानीपुरा",
     "kutirName": [
-      "Alipur - अलीपुर",
-      "Anoop pura - अनूप पुरा",
+      "Golpatiwada - गोलपटिवड",
+      "Jhamar - झमर",
       "Kumbhkhet - कुंभखेत",
-      "Ranipura - रानीपुरा"
+      "Muwaswada - मुवसवड",
+      "Ranipura - रानीपुरा",
+      "Tulkikheda - टुलकिखेड"
     ]
   },
   {
     "cluster": "Ratatalai - रतातलाई",
     "kutirName": [
       "Agra khurd - आगरा खुर्द",
+      "Bhikupura - भिकुपुर",
+      "Dangadungi - डनगडुनगि",
+      "Mansingpura - मनसिनगपुर",
+      "Neemkheda - नीमखेड",
       "Pankua - पंकुआ",
-      "Ratatalai - रातातलाई",
-      "Silphodkheda - सिलफोड़खेड़ा"
+      "Ratatalai - रतातलाई"
     ]
   },
   {
     "cluster": "Rauhal - रौहल",
     "kutirName": [
       "Dewarth naudhiya - देवर्थ नौधिया",
-      "Kotma - कोतमा",
+      "Golipahari - गोलिपहरि",
+      "Kotama - कोटम",
+      "Medara dakshin tola - मेडर डक्षिन टोला",
       "Medra - मेड्रा",
-      "Naudhiya - नौढ़िया",
+      "Naudiya - नौडिय",
       "Pipraha - पिपराहा",
-      "Rauhal - रौहाल",
-      "Tala - ताला"
+      "Rauhal - रौहल",
+      "Tala - ताला",
+      "Thurroodol - ठुररूडोल"
+    ]
+  },
+  {
+    "cluster": "Roshiya uchala faliya - रोशिया उचला फलिया",
+    "kutirName": [
+      "Detkunda patel faliya - डेटकुनड पटेल फलिया",
+      "Roshiya uchala faliya - रोशिया उचला फलिया",
+      "Undari ukla faliya - उनडरि उकल फलिया",
+      "Vavi patel faliya - ववि पटेल फलिया"
     ]
   },
   {
     "cluster": "Rupapada - रूपापाड़ा",
     "kutirName": [
-      "Amli - आमली",
-      "Bawri - बावरी",
-      "Kalmi - कल्मी",
-      "Piprani - पिपरानी",
-      "Rupapada - रूपापाड़ा"
+      "Bhaktiya - भकटिय",
+      "Garwadi - गरवडि",
+      "Kasyakhali - कसयखलि",
+      "Kundali - कुनडलि",
+      "Piplipada 2 - पिपलिपड 2"
+    ]
+  },
+  {
+    "cluster": "Sattali - सत्ताली",
+    "kutirName": [
+      "Bhachariya faliya - भचरिय फलिया",
+      "Budkimaal ghata faliya - बुड़कीमाल घट फलिया",
+      "Dhupa bondariya faliya - ढुप बोनडरिय फलिया",
+      "Guwada faliya - गुवड फलिया",
+      "Sattali - सत्ताली"
+    ]
+  },
+  {
+    "cluster": "Semarkhero - सेमरखेरो",
+    "kutirName": [
+      "Atarchuva - अटरचुव",
+      "Bajghundi - बजघुनडि",
+      "Bhalapuri - भलपुरि",
+      "Bilaikhar - बिलैखर",
+      "Dongariya - डोनगरिय",
+      "Ghursibahra - घुरसिबहर",
+      "Juwadi tola - जुवडि टोला",
+      "Mohrai - मोहरै",
+      "Murenda - मुरेनड",
+      "Nivas - निवस",
+      "Samariya - समरिय",
+      "Semarkhero - सेमरखेरो"
     ]
   },
   {
     "cluster": "Semliya - सेमलिया",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
+      "Banki - बनकि",
+      "Byantok - बयनटोक",
+      "Jharniya - झरनिय",
       "Khandan - खानदान",
+      "Kheerpur - खीरपुर",
+      "Lukhipada - लुखिपड",
+      "Rooppura - रूपपुर",
       "Sandala - संदला",
+      "Seara - सेअर",
       "Semlakhora - सेमलखोरा",
       "Semliya - सेमलिया"
     ]
@@ -1610,84 +1626,135 @@
   {
     "cluster": "Semri - सेमरी",
     "kutirName": [
-      "Amli - आमली",
-      "Bawri - बावरी",
-      "Kalmi - कल्मी",
-      "Piprani - पिपरानी",
+      "Gadla gird - गडल गिरड",
+      "Semra kheda - सेमर खेड़ा",
       "Semri - सेमरी"
     ]
   },
   {
     "cluster": "Sesaipura - सेसईपुरा",
     "kutirName": [
-      "Bawri - बावरी",
-      "Piprani - पिपरानी",
-      "Sesaipura - सेसईपुरा"
+      "Kateela - कटील",
+      "Nichli khoree - निचली खोरी",
+      "Parond - परोनड",
+      "Rampura chak - रामपुरा चक",
+      "Ranipura - रानीपुरा",
+      "Sesaipura - सेसईपुरा",
+      "Unchi khoree - उनचि खोरी"
     ]
   },
   {
-    "cluster": "Shivni - शिवनी",
+    "cluster": "Shivni - शिवनि",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
-      "Shivni - शिवनी"
+      "Aambi - आमबि",
+      "Abodhgarh - अबोढगरह",
+      "Chichwaniya - चिचवनिय",
+      "Devgarh - देवगढ़",
+      "Shivni - शिवनि",
+      "Tapar - टपर"
     ]
   },
   {
-    "cluster": "Silpidi - सिलपिडी",
+    "cluster": "Silpidi - सिलपिडि",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
-      "Silpidi - सिलपिडी"
+      "Bhursi mal - भुरसि माल",
+      "Bijlidaihan - बिजलिडैहन",
+      "Chikhlatola - चिखलटोल",
+      "Dadartola - डडरटोल",
+      "Neelkonha - नीलकोनह",
+      "Shitalpani - शिटलपनि",
+      "Silpidi - सिलपिडि",
+      "Tantar - टनटर",
+      "Tiklikhairo - टिकलिखैरो"
     ]
   },
   {
     "cluster": "Silpuri - सीलपुरी",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
+      "Dova ka sahrana - डोव क सहरन",
+      "Panwada - पनवड",
+      "Partwada - परटवड",
+      "Premnagar - परेमनगर",
+      "Sarari khurd - सररि खुर्द",
       "Silpuri - सीलपुरी"
     ]
   },
   {
     "cluster": "Sironi - सिरोनी",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
+      "Ghamloki - घमलोकि",
+      "Kasvani - कसवनि",
+      "Khadi no.2 - खडि नो.2",
+      "Khuntka - खुनटक",
+      "Kotka - कोटक",
       "Sironi - सिरोनी"
     ]
   },
   {
     "cluster": "Suda - सुडा",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
-      "Suda - सुडा"
+      "Barwa tola - बरव टोला",
+      "Geerapan - गीरपन",
+      "Gerui - गेरुई",
+      "Khamhaniya - खमहनिय",
+      "Lalimatee - ललिमटी",
+      "Sinduriya tola - सिनडुरिय टोला",
+      "Suda - सुडा",
+      "Suddi - सुडडि"
     ]
   },
   {
     "cluster": "Sunderdev - सुंदरदेव",
     "kutirName": [
-      "Aadakheda - आड़ाखेड़ा",
+      "Aawaliya - आवलिय",
+      "Dhakana - ढकन",
       "Ghutighat - घुटीघाट",
       "Gogaipur - गोगईपुर",
-      "Richhadikheda - रिछाड़ीखेड़ा",
-      "Suhagi - सुहागी"
+      "Jharikheda - झरिखेड",
+      "Kutbi - कुटबी",
+      "Nagotar - नागोतर",
+      "Rehatiya - रेहटिय",
+      "Sonpura - सोनपुर"
     ]
   },
   {
-    "cluster": "Tarang - तरंग",
+    "cluster": "Tarang - टरनग",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
-      "Tarang - तरंग"
+      "Adhwar - अढवर",
+      "Bairagi - बैरगि",
+      "Dhawai - ढवै",
+      "Goratola - गोरटोल",
+      "Hathbandha - हठबनढ",
+      "Jarhi - जरहि",
+      "Khale dhawai - खले ढवै",
+      "Payari - पयरि",
+      "Sanjhola tola - सनझोल टोला",
+      "Suadand - सुआडंड",
+      "Tarang - टरनग"
     ]
   },
   {
     "cluster": "Titvi - तितवी",
     "kutirName": [
-      "Anoop pura - अनूप पुरा",
-      "Titvi - तितवी"
+      "Aanki - आनकि",
+      "Barra uttari - बरर उटटरि",
+      "Bhatbori - भटबोरि",
+      "Dodajam - डोडजम",
+      "Ghodida - घोडिड",
+      "Jamundhana - जमुनढन",
+      "Potla - पोटल",
+      "Titvi - तितवी",
+      "Uttari - उटटरि"
     ]
   },
   {
     "cluster": "Tongra - टोंगरा",
     "kutirName": [
       "Bhawarkuwa - भंवरकुआं",
+      "Bhoorwada - भूरवड",
+      "Jakhda jageer - जाखड़ा जगीर",
+      "Jhirniya - झिरनिया",
+      "Moojhri - मूझरि",
       "Rajpura - राजपुरा",
       "Tongra - टोंगरा"
     ]
@@ -1697,9 +1764,36 @@
     "kutirName": [
       "Kaliratdi - कालीरातडी",
       "Kharadi - खराडी",
-      "Sindrani - सिंद्रानी",
+      "Pura - पुरा",
+      "Sendrani - सेनडरनि",
       "Surmanya - सुरमन्या",
-      "Umar - उमर"
+      "Umar - उमर",
+      "Unhel - उनहेल"
+    ]
+  },
+  {
+    "cluster": "Umrai - उमरई",
+    "kutirName": [
+      "Bhojpur - भोजपुर",
+      "Chakrana - चकराना",
+      "Jakhnod - जखनोद",
+      "Kakra - काकड़ा",
+      "Kolhapur - कोल्हापुर",
+      "Madkheda - मदखेड़ा",
+      "Sahrana nayagaon - सहराना नयागांव",
+      "Umrai - उमरई"
+    ]
+  },
+  {
+    "cluster": "Valpanee - वालपनी",
+    "kutirName": [
+      "Amba hawaldariya faliya - अमब हवलडरिय फलिया",
+      "Chapriyapani - चपरियपनि",
+      "Gulriyapani - गुलरियपनि",
+      "Jamnyapani - जमनयपनि",
+      "Muvasmal - मुवसमल",
+      "Palaskut ghata faliya - पलसकुट घट फलिया",
+      "Valpanee - वालपनी"
     ]
   },
   {
@@ -1728,10 +1822,10 @@
     "kutirName": [
       "Chipakhedi - चिपाखेड़ी",
       "Dabri - डाबरी",
-      "Dagdiya khodra faliya - दगड़िया खोदरा फलिया",
+      "Dagdiya khodra faliya - डगडिय खोदरा फलिया",
       "Gariya faliya - गारिया फलिया",
       "Kandravan - कंदरावण",
-      "Melani faliya - मेलानी फलिया",
+      "Melani faliya - मेलनि फलिया",
       "Nalti - नाल्टी"
     ]
   },
@@ -1835,19 +1929,6 @@
       "Raiyan - रैयान",
       "Sad - साद",
       "Thagosa - ठगोसा"
-    ]
-  },
-  {
-    "cluster": "Umrai - उमरई",
-    "kutirName": [
-      "Bhojpur - भोजपुर",
-      "Chakrana - चकराना",
-      "Jakhnod - जखनोद",
-      "Kakra - काकड़ा",
-      "Kolhapur - कोल्हापुर",
-      "Madkheda - मदखेड़ा",
-      "Sahrana nayagaon - सहराना नयागांव",
-      "Umrai - उमरई"
     ]
   },
   {
