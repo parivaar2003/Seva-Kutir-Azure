@@ -187,6 +187,12 @@ body {
   background: #218838;
 }
 
+.error-message {
+  color: #d93025; /* A standard error red color */
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+}
+
 /* MOBILE */
 
 @media (max-width: 600px) {
