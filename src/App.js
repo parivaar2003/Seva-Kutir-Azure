@@ -7,9 +7,9 @@ import kutirNameData from "./kutirNameData.json";
 /* ---------------- DATA ---------------- */
 
 const kutirTypes = [
-  "Seva Kutir",
-  "Shiksha Kutir",
-  "Study Center"
+  "Seva Kutir - सेवा कुटीर",
+  "Shiksha Kutir - शिक्षा कुटीर",
+  "Study Center - अध्ययन केंद्र"
 ];
 
 const initialFormData = {
@@ -269,8 +269,8 @@ export default function App() {
             value={formData.shift}
             onChange={handleChange} required>
             <option value="">Select</option>
-            <option>Morning</option>
-            <option>Evening</option>
+            <option>Morning - सुबह</option>
+            <option>Evening - शाम</option>
           </select>
         </div>
 
