@@ -531,8 +531,8 @@
   {
     "cluster": "Digha - दीघा",
     "kutirName": [
-      "Basadera - बसडेर",
-      "Bhaduya - भडुय",
+      "Basadera - बसदेर",
+      "Bhaduya - भदुय",
       "Dainmari - डैनमरि",
       "Daldali - डलडलि",
       "Digha - दीघा",
@@ -549,7 +549,7 @@
       "Hirri - हिररि",
       "Kohka - कोहक",
       "Linga - लिनग",
-      "Lona pathar - लोन पत्थर",
+      "Lona Pathar - लोन पत्थर",
       "Rajthari - रजठरि",
       "Sailakheda - सैलखेड",
       "Sajkuhi - सजकुहि"
@@ -565,7 +565,7 @@
       "Mirgitand - मिरगिटनड",
       "Pindrabad - पिनडरबड",
       "Rajabasa - रजबस",
-      "Sukrigaria - सुकरिगरिया"
+      "Sukrigaria - सुकरिगरिअ"
     ]
   },
   {
@@ -587,7 +587,7 @@
       "Aabadi - आबडि",
       "Bedgaon - बेडगोन",
       "Beragada - बेरागाड़ा",
-      "Bheelo ka tappar - भीलो क टपपर",
+      "Bheelo Ka Tappar - भीलो क टपपर",
       "Eklera - एकलेरा",
       "Jabalpur - जबलपुर",
       "Singladeh - सिंगलादेह",
@@ -597,8 +597,8 @@
   {
     "cluster": "Gadhla - गढला",
     "kutirName": [
-      "Bhikha sahrana - भिख सहरन",
-      "Chak bargawan - चक बरगवन",
+      "Bhikha Sahrana - भिख सहरन",
+      "Chak Bargawan - चक बरगवन",
       "Gadhla - गढला",
       "Gothra - गोठर",
       "Kapoora - कपूर",
@@ -624,20 +624,20 @@
       "Ambaja - अमबज",
       "Gata - गाटा",
       "Gondwani - गोनडवनि",
-      "Jamra faliya - जमर फलिया",
-      "Kadai pani - कडै पानी",
+      "Jamra Faliya - जमर फलिया",
+      "Kadai Pani - कडै पानी",
       "Kiloda - किलोड"
     ]
   },
   {
     "cluster": "Harla - हरला",
     "kutirName": [
-      "Bedi fartala - बेडि फरटल",
+      "Bedi Fartala - बेडि फरटल",
       "Eedri - ईदरी",
       "Harla - हरला",
       "Laijhapi - लाईझापी",
       "Limbi - लिंबी",
-      "Rosar (kamad faliya) - रोसर (कमड फलिया)",
+      "Rosar (kamad Faliya) - रोसर (कमड फलिया)",
       "Siraspani - सिरसपनि",
       "Thuthsemal - ठुठसेमल"
     ]
@@ -651,7 +651,7 @@
       "Dengda - डेनगड",
       "Heerapur - हीरापुर",
       "Kalarna - कलरन",
-      "Mar ka tapra - मर क टपर"
+      "Mar Ka Tapra - मर क टपर"
     ]
   },
   {
@@ -661,9 +661,9 @@
       "Hardadadu - हरडडडु",
       "Hidali - हिडाली",
       "Jogli - जोगलि",
-      "Jogli palanga - जोगलि पलनग",
+      "Jogli Palanga - जोगलि पलनग",
       "Kalyanpur - कलयनपुर",
-      "Kekadiya kala - केकड़िया कला",
+      "Kekadiya Kala - केकड़िया कला",
       "Neemdhana - नीमढन"
     ]
   },
@@ -674,7 +674,7 @@
       "Jalda - जलदा",
       "Kathariya - कठरिय",
       "Keritola - केरिटोल",
-      "Kharahil tola - खरहिल टोला",
+      "Kharahil Tola - खरहिल टोला",
       "Mangarh - मनगरह",
       "Pipariya - पिपरिया",
       "Sendurkhar - सेनडुरखर"
@@ -683,11 +683,11 @@
   {
     "cluster": "Jamniya - जामनिया",
     "kutirName": [
-      "Ghoda path - घोड पठ",
-      "Jamniya kala - जामनिया कला",
-      "Jamniya khurd - जामनिया खुर्द",
+      "Ghoda Path - घोड पठ",
+      "Jamniya Kala - जामनिया कला",
+      "Jamniya Khurd - जामनिया खुर्द",
       "Jamukho - जमुखो",
-      "Kala kahu - कला कहु",
+      "Kala Kahu - कला कहु",
       "Khari - खारी",
       "Umri - उमरि"
     ]
@@ -723,11 +723,11 @@
     "kutirName": [
       "Bhainsur - भैनसुर",
       "Bodrahawa - बोडरहव",
-      "Harijan basti - हरिजन बस्ती",
+      "Harijan Basti - हरिजन बस्ती",
       "Jamtihva - जमटिहव",
       "Jhaprahva - झपराहवा",
       "Mainahva - मैनहव",
-      "Najar pahri - नजर पहरि",
+      "Najar Pahri - नजर पहरि",
       "Sindhar - सिनढर",
       "Tenduha - टेनडुह"
     ]
@@ -751,7 +751,7 @@
       "Dugaliya - डुगलिय",
       "Jhapnadeh - झपनडेह",
       "Jhirpi - झिरपी",
-      "Nani makdai - ननि मकडै",
+      "Nani Makdai - ननि मकडै",
       "Sanwari - सनवरि"
     ]
   },
@@ -772,45 +772,45 @@
     "cluster": "Junapani - जुनापानी",
     "kutirName": [
       "Aamakhal - आमखल",
-      "Anjrood ryt - अनजरूड रैयत",
+      "Anjrood Ryt - अनजरूड रैयत",
       "Dhakankhali - ढकनखलि",
       "Jamoda - जामोदा",
       "Junapani - जुनापानी",
       "Magarya - मगरय",
       "Mirpur - मीरपुर",
-      "Mohiniya dhana - मोहिनिय ढाना",
+      "Mohiniya Dhana - मोहिनिय ढाना",
       "Mojbadi - मोजबडि",
       "Pipalpani - पिपलपनि",
       "Richhadiya - रिछडिय",
-      "Saliya kheda - सलिय खेड़ा",
+      "Saliya Kheda - सलिय खेड़ा",
       "Sonpura - सोनपुर",
       "Sukawi - सुकवि",
-      "Udiyapur raiyat - उदियापुर रैयत"
+      "Udiyapur Raiyat - उदियापुर रैयत"
     ]
   },
   {
     "cluster": "Kalibel - कालीबेल",
     "kutirName": [
-      "Badi gendra - बड़ी गेनडर",
-      "Badi patel faliya - बड़ी पटेल फलिया",
-      "Badi sirkhadi - बड़ी सिरखडि",
-      "Datniya faliya - डटनिय फलिया",
+      "Badi Gendra - बड़ी गेनडर",
+      "Badi Patel Faliya - बड़ी पटेल फलिया",
+      "Badi Sirkhadi - बड़ी सिरखडि",
+      "Datniya Faliya - डटनिय फलिया",
       "Kalibel - कालीबेल",
       "Lakadkuta - लकडकुट",
-      "Matar bara - मटर बर",
+      "Matar Bara - मटर बर",
       "Rundmal - रुनडमल",
-      "Sakadi faliya mundla - सकडि फलिया मुंडला"
+      "Sakadi Faliya Mundla - सकडि फलिया मुंडला"
     ]
   },
   {
     "cluster": "Karajwani - करजवानी",
     "kutirName": [
-      "Badi mal - बड़ी माल",
-      "Chilwat katri faliya - चिलवट कत्रि फलिया",
+      "Badi Mal - बड़ी माल",
+      "Chilwat Katri Faliya - चिलवट कत्रि फलिया",
       "Dhanbayadi - ढनबयडि",
-      "Holi faliya - होलि फलिया",
+      "Holi Faliya - होलि फलिया",
       "Karajwani - करजवानी",
-      "Patel faliya (wakner) - पटेल फलिया (वकनेर)"
+      "Patel Faliya (wakner) - पटेल फलिया (वकनेर)"
     ]
   },
   {
@@ -820,9 +820,9 @@
       "Barsod - बरसोड",
       "Karbematta - करबेमट्टा",
       "Kikratalab - किकरटलब",
-      "Nanbai tola - ननबै टोला",
+      "Nanbai Tola - ननबै टोला",
       "Patan - पटन",
-      "Patharkucha mal - पठरकुच माल",
+      "Patharkucha Mal - पठरकुच माल",
       "Shivatola - शिवटोल",
       "Shobhapur - शोभपुर"
     ]
@@ -830,7 +830,7 @@
   {
     "cluster": "Karida - करीदा",
     "kutirName": [
-      "Barra tingariya - बरर टिनगरिय",
+      "Barra Tingariya - बरर टिनगरिय",
       "Bijori - बिजोरि",
       "Bori - बोरि",
       "Karida - करीदा",
@@ -844,7 +844,7 @@
   {
     "cluster": "Kariyadeh - करियादेह",
     "kutirName": [
-      "Chak rampura - चक रामपुरा",
+      "Chak Rampura - चक रामपुरा",
       "Kariyadeh - करियादेह",
       "Koond - कूनड",
       "Kurkuta - कुरकुट",
@@ -857,11 +857,11 @@
     "cluster": "Karopani - कारोपानी",
     "kutirName": [
       "Basaniya - बसनिय",
-      "Budhgaon mal - बुढगोन माल",
+      "Budhgaon Mal - बुढगोन माल",
       "Karopani - कारोपानी",
       "Koudiya - कौडिय",
-      "Pachgaon raiyat - पचगोन रैयत",
-      "Sangam tola - सनगम टोला",
+      "Pachgaon Raiyat - पचगोन रैयत",
+      "Sangam Tola - सनगम टोला",
       "Shivri - शिवरि",
       "Sunhadadar - सुनहडडर",
       "Ufri - उफरि"
@@ -875,13 +875,13 @@
       "Khakharapada - खखरपड",
       "Khokhriya - खोखरिय",
       "Runji - रुनजि",
-      "Suthwadia - सुठवडिया"
+      "Suthwadia - सुठवडिअ"
     ]
   },
   {
     "cluster": "Kasai - कसाई",
     "kutirName": [
-      "Bhondiya kund - भोनडिय कुंड",
+      "Bhondiya Kund - भोनडिय कुंड",
       "Borkhedi - बोरखेडि",
       "Chikhlajhodi - चिखलझोडि",
       "Ghoghal - घोघल",
@@ -905,7 +905,7 @@
       "Jinwani - जिनवाणी",
       "Kanda - कांड",
       "Nimlay - निमले",
-      "Singodi pathar - सिंगोड़ी पठार"
+      "Singodi Pathar - सिंगोड़ी पठार"
     ]
   },
   {
@@ -913,7 +913,7 @@
     "kutirName": [
       "Bagda - बगदा",
       "Chadida - चडिड",
-      "Chattu battu - चटटु बटटु",
+      "Chattu Battu - चटटु बटटु",
       "Jhiridhana - झिरिढन",
       "Kekadiya - केकड़िया",
       "Mathni - मथनी"
@@ -971,11 +971,11 @@
     "cluster": "Kheri - खेरी",
     "kutirName": [
       "Badh - बढ",
-      "Beel dabra - बील डबर",
+      "Beel Dabra - बील डबर",
       "Dantee - डनटी",
       "Kheri - खेरी",
       "Khirkhiri - खिरखिरि",
-      "Shiv colony - शिव कॉलोनी"
+      "Shiv Colony - शिव कॉलोनी"
     ]
   },
   {
@@ -984,7 +984,7 @@
       "Bhadal - भादल",
       "Jiwani - जिवनि",
       "Kari - करि",
-      "Khaydi faliya - खयडि फलिया",
+      "Khaydi Faliya - खयडि फलिया",
       "Kherwani - खेरवानी",
       "Kotbandhani - कोटबनढनि"
     ]
@@ -992,11 +992,11 @@
   {
     "cluster": "Kiti - किटी",
     "kutirName": [
-      "Chhakana ki maal - छकन कि माल",
-      "Keldi ki mal - केलडि कि माल",
+      "Chhakana Ki Maal - छकन कि माल",
+      "Keldi Ki Mal - केलडि कि माल",
       "Kiti - किटी",
-      "Lohar faliya - लोहर फलिया",
-      "Nichla faliya - निचल फलिया",
+      "Lohar Faliya - लोहर फलिया",
+      "Nichla Faliya - निचल फलिया",
       "Umarkhad - उमरखड"
     ]
   },
@@ -1007,7 +1007,7 @@
       "Daldali - डलडलि",
       "Kodar - कोडर",
       "Kumhni - कुमहनि",
-      "Mitthu mahua - मिटठु महुआ",
+      "Mitthu Mahua - मिटठु महुआ",
       "Sarfa - सरफ",
       "Silvari - सिलवरि",
       "Tarera - टरेर",
@@ -1018,13 +1018,13 @@
     "cluster": "Kuli - कुली",
     "kutirName": [
       "Ghughsi - घुघसि",
-      "Kadvalya faliya semli - कडवलय फलिया सेमलि",
+      "Kadvalya Faliya Semli - कडवलय फलिया सेमलि",
       "Khajpur - खजपुर",
       "Kuli - कुली",
-      "Nimani faliya borkhedi - निमनि फलिया बोरखेडि",
-      "Pakhalya faliya - पखलय फलिया",
-      "Palaspani faliya borkhedi - पलसपनि फलिया बोरखेडि",
-      "Sulya faliya pospur - सुलय फलिया पोसपुर"
+      "Nimani Faliya Borkhedi - निमनि फलिया बोरखेडि",
+      "Pakhalya Faliya - पखलय फलिया",
+      "Palaspani Faliya Borkhedi - पलसपनि फलिया बोरखेडि",
+      "Sulya Faliya Pospur - सुलय फलिया पोसपुर"
     ]
   },
   {
@@ -1032,9 +1032,9 @@
     "kutirName": [
       "Bansraiya - बनसरैय",
       "Based - बसेड",
-      "Chak colony - चक कॉलोनी",
-      "Kurachor khurd - कुरचोर खुर्द",
-      "Resham kendra - रेशम केनडर",
+      "Chak Colony - चक कॉलोनी",
+      "Kurachor Khurd - कुरचोर खुर्द",
+      "Resham Kendra - रेशम केनडर",
       "Silori - सिलोरि"
     ]
   },
@@ -1044,7 +1044,7 @@
       "Ameth - अमेथ",
       "Badretha - बदरेठा",
       "Chandpur - चांदपुर",
-      "Indira colony - इनडिर कॉलोनी",
+      "Indira Colony - इनडिर कॉलोनी",
       "Jakhda - जाखड़ा",
       "Lahroni - लाहरोनी",
       "Pali - पाली"
@@ -1068,7 +1068,7 @@
     "cluster": "Laxmipura - लक्ष्मीपुरा",
     "kutirName": [
       "Agarra - अगरर",
-      "Beelbara khurd - बीलबर खुर्द",
+      "Beelbara Khurd - बीलबर खुर्द",
       "Bhaisda - भैसड",
       "Bhavkhedi - भावखेड़ी",
       "Laxmipura - लक्ष्मीपुरा",
@@ -1114,7 +1114,7 @@
   {
     "cluster": "Magardha - मगरधा",
     "kutirName": [
-      "Bakhari mal - बखरि माल",
+      "Bakhari Mal - बखरि माल",
       "Chinga - चिनग",
       "Davajhir - डवझिर",
       "Deori - डेओरि",
@@ -1162,7 +1162,7 @@
     "cluster": "Mahora - महोरा",
     "kutirName": [
       "Boda - बोड",
-      "Dongari tola - डोनगरि टोला",
+      "Dongari Tola - डोनगरि टोला",
       "Duwari - डुवरि",
       "Kasturi - कसटुरि",
       "Khursi - खुरसि",
@@ -1187,7 +1187,7 @@
     "cluster": "Majarvani - मजरवानी",
     "kutirName": [
       "Beldhana - बेलढन",
-      "Chopni khurd - चोपनि खुर्द",
+      "Chopni Khurd - चोपनि खुर्द",
       "Dhamnya - ढमनय",
       "Dhana - ढाना",
       "Dhokna - ढोकन",
@@ -1206,7 +1206,7 @@
       "Chitrauli - चित्रौलि",
       "Chokari - चोकरि",
       "Majhigawan - मझिगवां",
-      "Palihan tola juri - पलिहन टोला जुरि",
+      "Palihan Tola Juri - पलिहन टोला जुरि",
       "Patidol - पटिडोल",
       "Runda - रुनड"
     ]
@@ -1240,7 +1240,7 @@
     "kutirName": [
       "Adhwada - अढवड",
       "Baghchakrana - बघचकरन",
-      "Gadi moravan - गडि मोरावन",
+      "Gadi Moravan - गडि मोरावन",
       "Hathedi - हठेडि",
       "Moravan - मोरावन",
       "Tiktoli - टिकटोलि"
@@ -1279,7 +1279,7 @@
       "Bhogadwar - भोगडवर",
       "Dulhapur - डुलहपुर",
       "Ghummur - घुममुर",
-      "Kidgi tola - किडगि टोला",
+      "Kidgi Tola - किडगि टोला",
       "Kodbirkona - कोडबिरकोन",
       "Maliya - मलिय",
       "Murum - मुरुम",
@@ -1289,7 +1289,7 @@
   {
     "cluster": "Nadan - नादान",
     "kutirName": [
-      "Bharla pathar - भरल पत्थर",
+      "Bharla Pathar - भरल पत्थर",
       "Dhaikheda - ढैखेड",
       "Durganayak - डुरगनयक",
       "Kosmi - कोसमि",
@@ -1302,14 +1302,14 @@
   {
     "cluster": "Nagpokhar - नागपोखर",
     "kutirName": [
-      "Chhabri kadiya - छबरि कडिय",
+      "Chhabri Kadiya - छबरि कडिय",
       "Haiki - हैकि",
       "Hardi - हरदी",
       "Khairi - खैरि",
       "Kundaur - कुनडौर",
       "Nagpokhar - नागपोखर",
       "Piparidol - पिपरिडोल",
-      "Pipraha harraha - पिपराहा हररह",
+      "Pipraha Harraha - पिपराहा हररह",
       "Taal - टाल"
     ]
   },
@@ -1328,9 +1328,9 @@
   {
     "cluster": "Navalpura - नवलपुरा",
     "kutirName": [
-      "Baamala dadh - बामल डढ",
-      "Beelkheda khurd - बीलखेड खुर्द",
-      "Jaamun chhapri - जामुन छपरि",
+      "Baamala Dadh - बामल डढ",
+      "Beelkheda Khurd - बीलखेड खुर्द",
+      "Jaamun Chhapri - जामुन छपरि",
       "Khamkheda - खमखेड",
       "Navalpura - नवलपुरा",
       "Ratnakhedi - रटनखेडि",
@@ -1342,7 +1342,7 @@
     "cluster": "Nayapura - नयापुरा",
     "kutirName": [
       "Baglikheda - बगलिखेड",
-      "Habeeb nagar - हबीब नगर",
+      "Habeeb Nagar - हबीब नगर",
       "Jamunjheel - जमुनझील",
       "Kuri - कुरि",
       "Mograkheda - मोगरखेड",
@@ -1359,7 +1359,7 @@
       "Dampuri - डमपुरि",
       "Khursipar - खुरसिपर",
       "Nichli - निचली",
-      "Pipriya raiyat - पिपरिय रैयत",
+      "Pipriya Raiyat - पिपरिय रैयत",
       "Selvada - सेलवड",
       "Tikariya - टिकरिय"
     ]
@@ -1380,12 +1380,12 @@
   {
     "cluster": "Ochhapura - ओछापुरा",
     "kutirName": [
-      "Badai ka sahrana - बडै क सहरन",
-      "Golipura no. 2 - गोलिपुर नो. 2",
+      "Badai Ka Sahrana - बडै क सहरन",
+      "Golipura No. 2 - गोलिपुर नो. 2",
       "Gondeliyapura - गोनडेलियपुर",
       "Jahangarh - जहनगरह",
       "Laxmanpura - लक्समनपुर",
-      "Ochha ki jhopdi - ओछ कि झोपडि"
+      "Ochha Ki Jhopdi - ओछ कि झोपडि"
     ]
   },
   {
@@ -1393,7 +1393,7 @@
     "kutirName": [
       "Agra - आगरा",
       "Chitara - चिटर",
-      "Doondi kheda - डूंडी खेड़ा",
+      "Doondi Kheda - डूंडी खेड़ा",
       "Haripura - हरिपुरा",
       "Madanpur - मडनपुर",
       "Nayagaon - नयागांव",
@@ -1473,7 +1473,7 @@
       "Lamantola - लमनटोल",
       "Neemtola - नीमटोल",
       "Pathariya - पथरिया",
-      "Singhpur mal - सिनघपुर माल"
+      "Singhpur Mal - सिनघपुर माल"
     ]
   },
   {
@@ -1503,7 +1503,7 @@
   {
     "cluster": "Pyaripura - प्यारीपुरा",
     "kutirName": [
-      "Khairua ka pura - खैरुआ क पुरा",
+      "Khairua Ka Pura - खैरुआ क पुरा",
       "Latavani - लटवनि",
       "Pyaripura - प्यारीपुरा",
       "Salmanya - सलमनय",
@@ -1514,12 +1514,17 @@
   {
     "cluster": "Rampura - रामपुरा",
     "kutirName": [
-      "Dangvarve - डनगवरवे",
-      "Rampura - रामपुरा",
+      "Akoriya - अकोरिया",
       "Batkakhedi - बटकखेडि",
+      "Bhimlat - भिमलत",
+      "Dangvarve - डनगवरवे",
+      "Indira Colony - इन्दिरा कॉलोनी",
+      "Kaimkahar - कैमकहर",
+      "Kukarghati - कुकर्घति",
       "Mehra - मेहर",
       "Nonhetakhurd - नोनहेटखुरड",
       "Patpari - पटपरि",
+      "Rampura - रामपुरा",
       "Taprpura - टपरपुर"
     ]
   },
@@ -1537,7 +1542,7 @@
   {
     "cluster": "Ratatalai - रतातलाई",
     "kutirName": [
-      "Agra khurd - आगरा खुर्द",
+      "Agra Khurd - आगरा खुर्द",
       "Bhikupura - भिकुपुर",
       "Dangadungi - डनगडुनगि",
       "Mansingpura - मनसिनगपुर",
@@ -1549,10 +1554,10 @@
   {
     "cluster": "Rauhal - रौहल",
     "kutirName": [
-      "Dewarth naudhiya - देवर्थ नौधिया",
+      "Dewarth Naudhiya - देवर्थ नौधिया",
       "Golipahari - गोलिपहरि",
       "Kotama - कोटम",
-      "Medara dakshin tola - मेडर डक्षिन टोला",
+      "Medara Dakshin Tola - मेडर डक्षिन टोला",
       "Medra - मेड्रा",
       "Naudiya - नौडिय",
       "Pipraha - पिपराहा",
@@ -1562,12 +1567,12 @@
     ]
   },
   {
-    "cluster": "Roshiya uchala faliya - रोशिया उचला फलिया",
+    "cluster": "Roshiya Uchala Faliya - रोशिया उचला फलिया",
     "kutirName": [
-      "Detkunda patel faliya - डेटकुनड पटेल फलिया",
-      "Roshiya uchala faliya - रोशिया उचला फलिया",
-      "Undari ukla faliya - उनडरि उकल फलिया",
-      "Vavi patel faliya - ववि पटेल फलिया"
+      "Detkunda Patel Faliya - डेटकुनड पटेल फलिया",
+      "Roshiya Uchala Faliya - रोशिया उचला फलिया",
+      "Undari Ukla Faliya - उनडरि उकल फलिया",
+      "Vavi Patel Faliya - ववि पटेल फलिया"
     ]
   },
   {
@@ -1583,10 +1588,10 @@
   {
     "cluster": "Sattali - सत्ताली",
     "kutirName": [
-      "Bhachariya faliya - भचरिय फलिया",
-      "Budkimaal ghata faliya - बुड़कीमाल घट फलिया",
-      "Dhupa bondariya faliya - ढुप बोनडरिय फलिया",
-      "Guwada faliya - गुवड फलिया",
+      "Bhachariya Faliya - भचरिय फलिया",
+      "Budkimaal Ghata Faliya - बुड़कीमाल घट फलिया",
+      "Dhupa Bondariya Faliya - ढुप बोनडरिय फलिया",
+      "Guwada Faliya - गुवड फलिया",
       "Sattali - सत्ताली"
     ]
   },
@@ -1599,7 +1604,7 @@
       "Bilaikhar - बिलैखर",
       "Dongariya - डोनगरिय",
       "Ghursibahra - घुरसिबहर",
-      "Juwadi tola - जुवडि टोला",
+      "Juwadi Tola - जुवडि टोला",
       "Mohrai - मोहरै",
       "Murenda - मुरेनड",
       "Nivas - निवस",
@@ -1626,8 +1631,8 @@
   {
     "cluster": "Semri - सेमरी",
     "kutirName": [
-      "Gadla gird - गडल गिरड",
-      "Semra kheda - सेमर खेड़ा",
+      "Gadla Gird - गडल गिरड",
+      "Semra Kheda - सेमर खेड़ा",
       "Semri - सेमरी"
     ]
   },
@@ -1635,35 +1640,35 @@
     "cluster": "Sesaipura - सेसईपुरा",
     "kutirName": [
       "Kateela - कटील",
-      "Nichli khoree - निचली खोरी",
+      "Nichli Khoree - निचली खोरी",
       "Parond - परोनड",
-      "Rampura chak - रामपुरा चक",
+      "Rampura Chak - रामपुरा चक",
       "Ranipura - रानीपुरा",
       "Sesaipura - सेसईपुरा",
-      "Unchi khoree - उनचि खोरी"
+      "Unchi Khoree - उनचि खोरी"
     ]
   },
   {
-    "cluster": "Shivni - शिवनि",
+    "cluster": "Shivni - शिवनी",
     "kutirName": [
       "Aambi - आमबि",
       "Abodhgarh - अबोढगरह",
       "Chichwaniya - चिचवनिय",
       "Devgarh - देवगढ़",
-      "Shivni - शिवनि",
+      "Shivni - शिवनी",
       "Tapar - टपर"
     ]
   },
   {
-    "cluster": "Silpidi - सिलपिडि",
+    "cluster": "Silpidi - सिलपिडी",
     "kutirName": [
-      "Bhursi mal - भुरसि माल",
+      "Bhursi Mal - भुरसि माल",
       "Bijlidaihan - बिजलिडैहन",
       "Chikhlatola - चिखलटोल",
       "Dadartola - डडरटोल",
       "Neelkonha - नीलकोनह",
       "Shitalpani - शिटलपनि",
-      "Silpidi - सिलपिडि",
+      "Silpidi - सिलपिडी",
       "Tantar - टनटर",
       "Tiklikhairo - टिकलिखैरो"
     ]
@@ -1671,11 +1676,11 @@
   {
     "cluster": "Silpuri - सीलपुरी",
     "kutirName": [
-      "Dova ka sahrana - डोव क सहरन",
+      "Dova Ka Sahrana - डोव क सहरन",
       "Panwada - पनवड",
       "Partwada - परटवड",
       "Premnagar - परेमनगर",
-      "Sarari khurd - सररि खुर्द",
+      "Sarari Khurd - सररि खुर्द",
       "Silpuri - सीलपुरी"
     ]
   },
@@ -1684,7 +1689,7 @@
     "kutirName": [
       "Ghamloki - घमलोकि",
       "Kasvani - कसवनि",
-      "Khadi no.2 - खडि नो.2",
+      "Khadi No.2 - खडि नो.2",
       "Khuntka - खुनटक",
       "Kotka - कोटक",
       "Sironi - सिरोनी"
@@ -1693,12 +1698,12 @@
   {
     "cluster": "Suda - सुडा",
     "kutirName": [
-      "Barwa tola - बरव टोला",
+      "Barwa Tola - बरव टोला",
       "Geerapan - गीरपन",
       "Gerui - गेरुई",
       "Khamhaniya - खमहनिय",
       "Lalimatee - ललिमटी",
-      "Sinduriya tola - सिनडुरिय टोला",
+      "Sinduriya Tola - सिनडुरिय टोला",
       "Suda - सुडा",
       "Suddi - सुडडि"
     ]
@@ -1718,7 +1723,7 @@
     ]
   },
   {
-    "cluster": "Tarang - टरनग",
+    "cluster": "Tarang - तरंग",
     "kutirName": [
       "Adhwar - अढवर",
       "Bairagi - बैरगि",
@@ -1726,18 +1731,18 @@
       "Goratola - गोरटोल",
       "Hathbandha - हठबनढ",
       "Jarhi - जरहि",
-      "Khale dhawai - खले ढवै",
+      "Khale Dhawai - खले ढवै",
       "Payari - पयरि",
-      "Sanjhola tola - सनझोल टोला",
+      "Sanjhola Tola - सनझोल टोला",
       "Suadand - सुआडंड",
-      "Tarang - टरनग"
+      "Tarang - तरंग"
     ]
   },
   {
     "cluster": "Titvi - तितवी",
     "kutirName": [
       "Aanki - आनकि",
-      "Barra uttari - बरर उटटरि",
+      "Barra Uttari - बरर उटटरि",
       "Bhatbori - भटबोरि",
       "Dodajam - डोडजम",
       "Ghodida - घोडिड",
@@ -1752,7 +1757,7 @@
     "kutirName": [
       "Bhawarkuwa - भंवरकुआं",
       "Bhoorwada - भूरवड",
-      "Jakhda jageer - जाखड़ा जगीर",
+      "Jakhda Jageer - जाखड़ा जगीर",
       "Jhirniya - झिरनिया",
       "Moojhri - मूझरि",
       "Rajpura - राजपुरा",
@@ -1780,19 +1785,19 @@
       "Kakra - काकड़ा",
       "Kolhapur - कोल्हापुर",
       "Madkheda - मदखेड़ा",
-      "Sahrana nayagaon - सहराना नयागांव",
+      "Sahrana Nayagaon - सहराना नयागांव",
       "Umrai - उमरई"
     ]
   },
   {
     "cluster": "Valpanee - वालपनी",
     "kutirName": [
-      "Amba hawaldariya faliya - अमब हवलडरिय फलिया",
+      "Amba Hawaldariya Faliya - अमब हवलडरिय फलिया",
       "Chapriyapani - चपरियपनि",
       "Gulriyapani - गुलरियपनि",
       "Jamnyapani - जमनयपनि",
       "Muvasmal - मुवसमल",
-      "Palaskut ghata faliya - पलसकुट घट फलिया",
+      "Palaskut Ghata Faliya - पलसकुट घट फलिया",
       "Valpanee - वालपनी"
     ]
   },
@@ -1800,21 +1805,21 @@
     "cluster": "Alirajpur (Unassigned) - अलीराजपुर (असंबद्ध)",
     "kutirName": [
       "Beswani - बेसवाणी",
-      "Gaman faliya pipliyawat - गमन फलिया पिपलियावत",
-      "Jamla patel faliya - जामला पटेल फलिया",
-      "Jamla segi faliya - जामला सेगी फलिया",
-      "Kanesh faliya kanthari - कानेश फलिया कंथारी",
-      "Koliyari faliya kumbhi - कोलियारी फलिया कुम्भी",
-      "Roshiya patel faliya - रोशिया पटेल फलिया",
-      "Undari patel faliya - उंदरी पटेल फलिया"
+      "Gaman Faliya Pipliyawat - गमन फलिया पिपलियावत",
+      "Jamla Patel Faliya - जामला पटेल फलिया",
+      "Jamla Segi Faliya - जामला सेगी फलिया",
+      "Kanesh Faliya Kanthari - कानेश फलिया कंथारी",
+      "Koliyari Faliya Kumbhi - कोलियारी फलिया कुम्भी",
+      "Roshiya Patel Faliya - रोशिया पटेल फलिया",
+      "Undari Patel Faliya - उंदरी पटेल फलिया"
     ]
   },
   {
     "cluster": "Anuppur (Unassigned) - अनूपपुर (असंबद्ध)",
     "kutirName": [
-      "Baigan tola - बैगन टोला",
+      "Baigan Tola - बैगन टोला",
       "Garjanbija - गरजनबीजा",
-      "Karaunda pani - करौंदा पानी"
+      "Karaunda Pani - करौंदा पानी"
     ]
   },
   {
@@ -1822,10 +1827,10 @@
     "kutirName": [
       "Chipakhedi - चिपाखेड़ी",
       "Dabri - डाबरी",
-      "Dagdiya khodra faliya - डगडिय खोदरा फलिया",
-      "Gariya faliya - गारिया फलिया",
+      "Dagdiya Khodra Faliya - डगडिय खोदरा फलिया",
+      "Gariya Faliya - गारिया फलिया",
       "Kandravan - कंदरावण",
-      "Melani faliya - मेलनि फलिया",
+      "Melani Faliya - मेलनि फलिया",
       "Nalti - नाल्टी"
     ]
   },
@@ -1834,10 +1839,10 @@
     "kutirName": [
       "Ambakheda - अंबाखेड़ा",
       "Gadhi - गढ़ी",
-      "Maal faliya - माल फलिया",
+      "Maal Faliya - माल फलिया",
       "Phuldhavdi - फूलधावड़ी",
-      "Pipal faliya - पीपल फलिया",
-      "Surlibai faliya - सुरलीबाई फलिया"
+      "Pipal Faliya - पीपल फलिया",
+      "Surlibai Faliya - सुरलीबाई फलिया"
     ]
   },
   {
@@ -1880,7 +1885,7 @@
       "Haranmaal - हरणमाल",
       "Hariyajheel - हरियाझील",
       "Maalkheda - मालखेड़ा",
-      "Pidee jamali - पिड़ी जमाली"
+      "Pidee Jamali - पिड़ी जमाली"
     ]
   },
   {
@@ -1888,7 +1893,7 @@
     "kutirName": [
       "Aakadiya - आाकड़िया",
       "Jabad - जाबद",
-      "Rajapura mataji - राजापुरा माताजी"
+      "Rajapura Mataji - राजापुरा माताजी"
     ]
   },
   {
@@ -1903,7 +1908,7 @@
     "cluster": "Seoni (Unassigned) - सिवनी (असंबद्ध)",
     "kutirName": [
       "Chhindwaha - छिंदवाहा",
-      "Dhuma mal - धूमा माल",
+      "Dhuma Mal - धूमा माल",
       "Gangpur - गंगपुर",
       "Khudri - खुदरी",
       "Roto - रोतो",
