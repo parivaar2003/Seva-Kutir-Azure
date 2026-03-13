@@ -96,8 +96,9 @@ body {
 
 .error-message {
   color: #d93025;
-  font-size: 0.8rem;
+  font-size: 1rem;
   margin-top: 4px;
+  font-weight: 600;
 }
 
 /* ================= REVIEW PAGE ================= */
