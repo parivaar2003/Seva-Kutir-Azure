@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import "./App.css";
 import locationData from "./locationData.json";
 import clusterData from "./clusterData.json";
@@ -109,6 +109,7 @@ export default function App() {
   const [errors, setErrors] = useState({});
   const [isReviewing, setIsReviewing] = useState(false);
   const [loading, setLoading] = useState(false);
+  const phoneRef = useRef(null);
 
   /* DROPDOWNS */
 
@@ -170,8 +171,10 @@ export default function App() {
     if (!/\S+@\S+\.\S+/.test(formData.email))
       newErrors.email = "Invalid email";
 
-    if (formData.teacherPhone.length !== 10)
+    if (formData.teacherPhone.length !== 10) {
       newErrors.teacherPhone = "Phone must be 10 digits";
+      phoneRef.current.focus();
+    }
 
     Object.entries(formData).forEach(([k, v]) => {
       // We skip checking Photo 2 and Photo 3 so they remain optional
