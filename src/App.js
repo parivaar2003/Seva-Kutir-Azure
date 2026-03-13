@@ -261,6 +261,7 @@ export default function App() {
             name="teacherPhone"
             value={formData.teacherPhone}
             onChange={handleChange} required />
+            {errors.teacherPhone && <span className="error-message">{errors.teacherPhone}</span>}
         </div>
 
         <div className="form-group">
